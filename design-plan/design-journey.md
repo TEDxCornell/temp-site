@@ -86,6 +86,8 @@ TODO: notes/minutes from your first client meeting
 
 ### Client Website (Milestone 1)
 
+NOTE: after we met with the client, we wrote the rationale together.
+
 > Tell us about the website that your client wants.
 > Tell us the purpose of the website and what it is all about.
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
