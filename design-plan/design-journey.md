@@ -17,9 +17,8 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-- TEDxCornell is a club at Cornell. It hosts annual speaking events. Focuses on sharing new opinions and ideas.
-
-- TEDxCornell meets our project requirements because the website is not made for any specific member on our team. TEDxCornell is a professional organization that has real needs.
+- TEDxCornell is a club at Cornell. It hosts annual speaking events and focuses on sharing new opinions and ideas.
+- TEDxCornell meets our project requirements because the website is not made for any specific member on our team. TEDxCornell is a professional organization that has real needs and wants to have a redesigned website.
 
 ### Client Questionnaire (Milestone 1)
 
@@ -71,10 +70,10 @@ Be clear and concise in your writing. Bullets points are encouraged.
    - Sharp contrast between the images and the white background
    - More formal and sophisticated font
 
-8. What are your three favorite competitors or similar organizations' websites? Why?
+8. What are your favorite competitors or similar organizations' websites? Why?
 
-   - The official website TEDx
-   - Cornell Blockchain
+   - The official website TEDx: neat; efficient representation of information, look professional
+   - Cornell Blockchain: background black and white, look professional
 
 9. Besides the content of the existing site, what else do you want to add? Will you provide it to us?
 
@@ -95,7 +94,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 ### Client Website (Milestone 1)
 
-NOTE: after we met with the client, we wrote the rationale together.
+NOTE: after meeting with the client, we discussed and wrote the rationale together.
 
 > Tell us about the website that your client wants.
 > Tell us the purpose of the website and what it is all about.
@@ -104,6 +103,10 @@ NOTE: after we met with the client, we wrote the rationale together.
 
 - Our client wants a more formal and professional look to his website. For this project I think it would be best to have a plain white background, with contrasting images, and with a more formal font like sans serif. The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. We are planning to add more content to the existing website and potentially upgrade the presentation of it. We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer.
 - https://www.tedxcornell.com/team <- Current website link for TEDxCornell
+
+[The existing site](existing-site-1.png)
+[The existing site](existing-site-2.png)
+[The existing site](existing-site-3.png)
 
 ### Client Goals (Milestone 1)
 
@@ -122,9 +125,9 @@ NOTE: after we met with the client, we wrote the rationale together.
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-- Most of the content will be recycled from the existing website.
-- The client asked us to add some images to the website.
-- We will focus on making our content concise and thorough for our viewers
+- Most of the content will be recycled from the existing website, which has substantial content.
+- The client also asked us to add some images to the website.
+- We will focus on making our content concise and thorough for our viewers.
 
 ## Plan/Schedule (Milestone 1)
 
