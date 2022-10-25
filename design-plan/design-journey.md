@@ -91,7 +91,8 @@ TODO: notes/minutes from your first client meeting
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+- Our client wants a more formal and professional look to his website. For this project I think it would be best to have a plain white background, with contrasting images, and with a more formal font like sans serif. The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. We are planning to add more content to the existing website and potentially upgrade the presentation of it. We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer.
+- https://www.tedxcornell.com/team <- Current website link for TEDxCornell
 
 ### Client Goals (Milestone 1)
 
@@ -99,10 +100,9 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- To build up a general impression on the audience about TEDxCornell (professional)
+- To learn more about TEDxCornell (the organization and events)
+- To attract speakers
 
 ### Client Website Scope (Milestone 1)
 
@@ -111,7 +111,9 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+- Most of the content will be recycled from the existing website.
+- The client asked us to add some images to the website.
+- We will focus on making our content concise and thorough for our viewers
 
 ## Plan/Schedule (Milestone 1)
 
@@ -121,7 +123,11 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- We aim to complete all milestones on time.
+- Week 1: Complete user interviews and website goals.
+- Week 2: Complete skeleton code (layout, code organization, etc.)
+- Week 3: Fill in pages with content and add styles
+- Week 4: Add interactivity
 
 ## Understanding Users (Milestone 2)
 
