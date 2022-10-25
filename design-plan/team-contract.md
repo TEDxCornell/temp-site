@@ -26,6 +26,7 @@ Your team contract should probably include these elements. Feel free to remove o
    - Don't be a free rider.
    - Don't disappear right before the deadline.
    - Start early.
+   - The last person who wants to make changes should submit the form. Forward the submission report to other members.
 
 3. By what means and how frequently will we meet or communicate?
 
