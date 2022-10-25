@@ -12,6 +12,9 @@ Your team contract should probably include these elements. Feel free to remove o
 
    - Submit every milestone on time as no slip days can be used for this project.
    - Hopefully make a four-page website of good quality, according to the goals of the client and the audience.
+   - Everyone understands their responsibilities and respects one another.
+   - Communicate with one another
+   - Have descriptive and accurate commit/pull names
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
@@ -33,6 +36,8 @@ Your team contract should probably include these elements. Feel free to remove o
    - Group chat and in-person meetings
    - Listen to them carefully.
    - Seriously consider their needs and advice.
+   - Take notes while they are speaking
+   - Be quiet while they are speaking
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
@@ -58,10 +63,13 @@ Your team contract should probably include these elements. Feel free to remove o
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
    - When we disagree, be patient and talk.
+   - Make compromises
+   - Listen to one another and try to understand their point of view
 
 8. What are our procedures for re-visiting this contract?
 
    - Aftet the initial draft, the contract can be changed if everyone agrees.
+   - If any problems come up, we should revisit or edit the team contract
 
 9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 

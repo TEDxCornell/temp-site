@@ -102,6 +102,9 @@ TODO: explain how your proposed website is the right "size" for this project: no
 TODO: your team's plan
 
 
+
+
+
 ## Understanding Users (Milestone 2)
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
