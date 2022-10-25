@@ -104,9 +104,9 @@ NOTE: after meeting with the client, we discussed and wrote the rationale togeth
 - Our client wants a more formal and professional look to his website. For this project I think it would be best to have a plain white background, with contrasting images, and with a more formal font like sans serif. The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. We are planning to add more content to the existing website and potentially upgrade the presentation of it. We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer.
 - https://www.tedxcornell.com/team <- Current website link for TEDxCornell
 
-[The existing site](existing-site-1.png)
-[The existing site](existing-site-2.png)
-[The existing site](existing-site-3.png)
+![The existing site](existing-site-1.png)
+![The existing site](existing-site-2.png)
+![The existing site](existing-site-3.png)
 
 ### Client Goals (Milestone 1)
 
