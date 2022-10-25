@@ -47,7 +47,7 @@ Your team contract should probably include these elements. Feel free to remove o
    <!-- Source: project requirement -->
 
    - Everyone must contribute to user research, design, and planning.
-   - Everyone must code HTML, CSS, and JavaScript.
+   - Everyone must code HTML and CSS.
    - Everyone must participate in user testing.
    - Everyone must have an opportunity to interact with the client (most likely in meetings).
 
