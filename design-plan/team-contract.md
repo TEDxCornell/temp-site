@@ -12,6 +12,7 @@ Your team contract should probably include these elements. Feel free to remove o
 
    - Submit every milestone on time as no slip days can be used for this project.
    - Hopefully make a four-page website of good quality, according to the goals of the client and the audience.
+   - Great effort
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
@@ -19,6 +20,7 @@ Your team contract should probably include these elements. Feel free to remove o
 
    - Check the group chat frequently.
    - Finish own tasks on time or let the other members know the progress.
+   - Don't interrupt others.
    - Don't be a free rider.
    - Don't disappear right before the deadline.
    - Start early.
