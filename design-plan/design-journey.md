@@ -17,7 +17,9 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+- TEDxCornell is a club at Cornell. It hosts annual speaking events. Focuses on sharing new opinions and ideas.
+
+- TEDxCornell meets our project requirements because the website is not made for any specific member on our team. TEDxCornell is a professional organization that has real needs.
 
 ### Client Questionnaire (Milestone 1)
 
