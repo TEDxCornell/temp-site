@@ -56,6 +56,8 @@ TODO: who is your client?
 
     TODO: take notes of your client's response
 
+9. Besides the content of the existing site, what else do you want to add? Will you provide it to us?
+
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
