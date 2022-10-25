@@ -84,7 +84,14 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+- Meeting took roughly 15 minutes
+- Seemed to have wanted a more professional and formal website
+- Wanted to attract people who want to speak for TEDxCornell
+- Formal font
+- Contrasting images
+- Emphasis on wanting a forms page
+- Focus on design and presentation
+
 
 ### Client Website (Milestone 1)
 
