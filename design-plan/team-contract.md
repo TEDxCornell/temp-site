@@ -15,6 +15,7 @@ Your team contract should probably include these elements. Feel free to remove o
    - Everyone understands their responsibilities and respects one another.
    - Communicate with one another
    - Have descriptive and accurate commit/pull names
+   - Work Hard
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
@@ -27,11 +28,13 @@ Your team contract should probably include these elements. Feel free to remove o
    - Don't disappear right before the deadline.
    - Start early.
    - The last person who wants to make changes should submit the form. Forward the submission report to other members.
+   - Be responsive to others
 
 3. By what means and how frequently will we meet or communicate?
 
    - Group chat
    - Zoom / in-person meetings (maybe every week)
+   - Facetime
 
 4. How will we communicate and work with our client?
 
@@ -40,6 +43,7 @@ Your team contract should probably include these elements. Feel free to remove o
    - Seriously consider their needs and advice.
    - Take notes while they are speaking
    - Be quiet while they are speaking
+   - Earnestly
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
@@ -67,6 +71,7 @@ Your team contract should probably include these elements. Feel free to remove o
    - When we disagree, be patient and talk.
    - Make compromises
    - Listen to one another and try to understand their point of view
+   - Be nice
 
 8. What are our procedures for re-visiting this contract?
 
