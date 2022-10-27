@@ -84,12 +84,15 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Include your notes/minutes from your first meeting with your client.
 
 - Meeting took roughly 15 minutes
-- Seemed to have wanted a more professional and formal website
-- Wanted to attract people who want to speak for TEDxCornell
-- Formal font
-- Contrasting images
-- Emphasis on wanting a forms page
-- Focus on design and presentation
+- Attendees: all members and the client
+- See notes above
+- Main points:
+  - Seemed to have wanted a more professional and formal website
+  - Wanted to attract people who want to speak for TEDxCornell
+  - Formal font
+  - Contrasting images
+  - Emphasis on wanting a forms page
+  - Focus on design and presentation
 
 
 ### Client Website (Milestone 1)
@@ -125,9 +128,9 @@ NOTE: after meeting with the client, we discussed and wrote the rationale togeth
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-- Most of the content will be recycled from the existing website, which has substantial content.
-- The client also asked us to add some images to the website.
-- We will focus on making our content concise and thorough for our viewers.
+- Most of the content will be recycled from the existing website, which has substantial content. The client also asked us to add more content like images. So the website will not be small.
+- We will focus on making our content concise and thorough for our viewers. We will also decide which content should not be included if it does not meet the audience's goals. So the website does not get too big.
+- As planned, each member will work on one page. We will make the content for each page about the same.
 
 ## Plan/Schedule (Milestone 1)
 
