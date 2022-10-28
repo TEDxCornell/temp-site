@@ -157,7 +157,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for TedxCornell. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
@@ -195,6 +195,15 @@ TODO: copy interview questions
 TODO: take notes inline with questions
 
 **Interviewee 3:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+TODO: add additional interviewees as needed
+
+**Interviewee 4:**
 
 TODO: tell us a bit about your participant
 
