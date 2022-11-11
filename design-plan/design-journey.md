@@ -94,7 +94,6 @@ Be clear and concise in your writing. Bullets points are encouraged.
   - Emphasis on wanting a forms page
   - Focus on design and presentation
 
-
 ### Client Website (Milestone 1)
 
 NOTE: after meeting with the client, we discussed and wrote the rationale together.
@@ -161,11 +160,11 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
 
-3. TODO: add your own question
+3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
 
-4. TODO: add your own question
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
 
 ...
 
