@@ -181,10 +181,15 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+Monica Lee is a second-year student at Cornell; she is a transfer from Boston College. She is part of TEDxCornell.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
+
+3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
+
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
 
 **Interviewee 2:**
 
