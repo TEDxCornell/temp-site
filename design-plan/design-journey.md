@@ -280,14 +280,14 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+I think Cornell Blockchain does a great job at segmenting their information, and implementing a clean, professional design (white background, strong contrasts, sharp edges, and sans-serif font). Some interactivity features I noticed were, a hamburger navigation menu when the screen collapses into a narrower screen and darkening icons on clickable elements.
 
 ### Example Website 2 Review (Milestone 2)
 
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+I think Cornell Hedgefund also does a great job at separating their information and ultilizing a professional design. Furthermore, unlike Cornell Blockchain, their website theme is consistent across multiple webpages. I especially like their use of hero images, and professional color scheme (white, navy blue, and gray). Their website also makes excellent use of a hamburger dropdown menu on smaller screens, and icon darkening when hovering over clickable elements.
 
 ### Example Website 3 Review (Milestone 2)
 
