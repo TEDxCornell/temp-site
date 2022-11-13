@@ -265,9 +265,9 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 2. <TODO: website url>
 
-   ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+   ![Cornell Hedgefund Wide Screen](cornell-hedgefund.png)
 
-   ![TODO: wide screenshot description](TODO: wide screenshot path)
+   ![Cornell Hedgefund Narrow Screen](cornell-hedgefund-narrow.png)
 
 3. <TODO: website url>
 
