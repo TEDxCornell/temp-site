@@ -305,10 +305,10 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- Hero images
+- Past speaking events
+- Team member photos
+- General information
 
 ### Content Justification (Milestone 2)
 
