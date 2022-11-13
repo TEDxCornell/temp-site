@@ -184,12 +184,13 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 Monica Lee is a second-year student at Cornell; she is a transfer from Boston College. She is part of TEDxCornell.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-
+   Hi, I'm a speaker curation member at TEDxCornell. (After asking year and major) I'm a sophomore, and I am currently a Hotelie.
 2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
-
+   I think first impressions do matter. If I saw a website that wasn't well-put together it would give me the impression that the club isn't organized or professional. On the other hand, seeing a great website does make me believe a club is well-run.
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
-
+   Sometimes, I run across this. It really depends on how bad it is. Usually some overlapping text is OK, but ideally it would not be there.
 4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
+   I think giving feedback when a user submit forms could help.
 
 **Interviewee 2:**
 
@@ -258,9 +259,9 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 1. <TODO: website url>
 
-   ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+   ![Cornell Blockchain Wide Screen](cornell-blockchain.png)
 
-   ![TODO: wide screenshot description](TODO: wide screenshot path)
+   ![Cornell Blockchain Narrow Screen](cornell-blockchain-narrow.png)
 
 2. <TODO: website url>
 
