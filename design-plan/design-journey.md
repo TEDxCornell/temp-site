@@ -271,9 +271,9 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 3. <TODO: website url>
 
-   ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+   ![Cornell Consulting Wide Screen](cornell-consulting.png)
 
-   ![TODO: wide screenshot description](TODO: wide screenshot path)
+   ![Cornell Consulting Narrow Screen](cornell-consulting-narrow.png)
 
 ### Example Website 1 Review (Milestone 2)
 
@@ -294,7 +294,7 @@ I think Cornell Hedgefund also does a great job at separating their information 
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+I think Cornell Consulting does a great job at implementing a sleek, professional theme, just like the previous two websites: white background, sans-serif font, sharp edges, etc. They also implement a hamburger burger and icon darkening.
 
 ## Content Planning (Milestone 2)
 
