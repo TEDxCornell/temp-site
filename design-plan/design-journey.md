@@ -414,12 +414,13 @@ Plan your site's content.
 - Past speaking events
 - Team member photos
 - General information
+- Application information
 
 ### Content Justification (Milestone 2)
 
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Hero images improve the site's design and appeal.
 
 ## Information Architecture (Milestone 2)
 
@@ -474,9 +475,9 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- Hamburger burger on narrower screens
+- Button darkening on mouse hover
+- Form feedback on apply
 
 ### Layout Exploration (Milestone 2)
 
@@ -517,7 +518,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+Our proposed interactivity includes a hamburger burger on narrower screens, which will increase real estate for more essential content. We also plan to include icon darkening on mouse hover to give user feedback on interactive elements. We also will try to implement form feedback for form validation.
 
 ## Interactivity Plan (Milestone 2)
 
