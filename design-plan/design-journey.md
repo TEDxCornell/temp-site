@@ -415,6 +415,9 @@ Plan your site's content.
 - Team member photos
 - General information
 - Application information
+- History of TedxCornell
+- Mission Statement
+- Purpose and introduction to the club
 
 ### Content Justification (Milestone 2)
 
@@ -430,17 +433,21 @@ These content decisions satisfy our audience's goals by giving our audience the 
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+![CartSort 1](cardsort1.jpg)
+In my first card sort, I had four sections focusing on 1) learning about TedXCornell, 2) learning about past events and what TedXCorenll is currently doing, 3) how to get connected with TedxCornell, and 4) other information on TedxCornell. In the first section, I started out thinking that I needed an about me section. This would serve as an introduction to the club. I also thought it would be more informative if the history was put next to the introduction, along with the mission statement, purpose, and socials. For my next section, I realized that I should put all content about events in one blob together. Having videos of past events, information on past speakers, annual events that might be hosted, and perhaps videos of the event themselves. Next, everything I thought that would relate to connecting with tedxcornell was put in a blob together. I put together a mailing list, information on how to become part of tedxcornell, how to become a speaker, and an excerpt encouraging people to join TedxCornell. Lastly, all information that I thought wouldn't fit in the other sections were put together. I thought that users would want to have an information section. I started knowing we wanted an FAQ content space. After that I knew there would be questions on the location of tedxcornell, how to get involved, and general questions on the event itself.
+
+![CartSort 2](cardsort2.jpg)
+My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing  list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience
 
 ### Final Content Organization (Milestone 2)
 
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+We are planning on using card iteration 2.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+Card iteration 2 makes more sense in terms of familiarity and convenience. Switching the mailing list to the first section would make it easier for our users to quickly subscribe to the mailing list without having to search for it. It also makes more sense chronologically since the majority of websites have the mailing list on the first pafe where it is easily seen. Additionally I think it makes more sense to have an "how to get more involved" statement in the section where they are encouraging users to join TedxCornell. Lastly, I thought that all information that fell outside the realm of the beginning sections should belong on an FAQ or information page. This includes information that speakers, cornellians, or outsiders may want to know.
 
 ### Navigation (Milestone 2)
 
