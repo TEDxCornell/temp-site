@@ -503,7 +503,40 @@ Our proposed interactivity includes a hamburger burger on narrower screens, whic
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+CSS classes:
+
+- hidden class
+- hover-background class
+
+HTML elements:
+
+- buttons (navigation)
+- paragraph elements (form feedback)
+
+Events:
+
+- click listeners
+- hover listeners
+- window resize
+
+Pseudocode:
+
+if window size grows smaller than 700px
+hide the navigation bar and show the hamburger menu
+
+if the window size is smaller than 700px and the hamburger menu is clicked
+show a navigation bar if the navigation bar is hidden; otherwise, hide the navigation bar
+
+if window size is ever greater than 700px we show the default navigation bar
+
+if a mouse is hovering over a button element
+add the darkening background class to the button
+if a mouse is no longer hovering over a button element
+remove the darkening background class to the button
+
+on a form submit
+if any fields are empty
+remove hidden class from their corresponding
 
 ## Client Feedback & Minutes (Milestone 2)
 
