@@ -250,15 +250,6 @@ Dropdown menus are helpful. She likes big huge buttons that make it very easy to
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-TODO: add additional interviewees as needed
-
-**Interviewee 3:**
-
 The participant is a sophomore at Cornell. She majors in Statistical Science.
 
 1. Please tell me a bit about yourself.
