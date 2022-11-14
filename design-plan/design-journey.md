@@ -194,14 +194,43 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 Monica Lee is a second-year student at Cornell; she is a transfer from Boston College. She is part of TEDxCornell.
 
-1. Please tell me a bit about yourself. You may omit any personal or private information.
-   Hi, I'm a speaker curation member at TEDxCornell. (After asking year and major) I'm a sophomore, and I am currently a Hotelie.
-2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
-   I think first impressions do matter. If I saw a website that wasn't well-put together it would give me the impression that the club isn't organized or professional. On the other hand, seeing a great website does make me believe a club is well-run.
+1. Please tell me a bit about yourself.
+
+   - sophomore
+   - hotelie
+   - transfer from boston college
+
+2. Recall the last time you visited a club/organization website.
+
+- What information were you looking for?
+- Did you find it?
+- Did you find the website helpful? Why or why not?
+- Does the website design affect your opinion of the club?
+
+  - TEDxCornell
+  - previous event information
+  - yes
+  - it does shape first impression, having a poorly-designed website could negatively affect first impressions
+
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
-   Sometimes, I run across this. It really depends on how bad it is. Usually some overlapping text is OK, but ideally it would not be there.
+
+   - text overlap makes content hard to read
+   - negatively impacts opinion of club
+   - not well-run/organized.
+
 4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger menu?
-   I think giving feedback when a user submit forms could help.
+
+   - didn't pay much attention to these things, but mentioned hamburger menu after explaining what it was.
+
+5. Do you know about TED? Have you had any experience with it (attending in-person talks, watching recordings online, speaking, etc.)?
+
+- If yes, did you visit any website for that experience?
+- What was your impression of the website?
+- Did you find the website helpful? Why or why not?
+
+  - yes, a speaker curation member on TEDxCornell
+  - thinks the TEDxCornell website could be designed better
+  - helpful, but could be better
 
 **Interviewee 2:**
 
