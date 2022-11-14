@@ -391,12 +391,13 @@ Plan your site's content.
 - Past speaking events
 - Team member photos
 - General information
+- Application information
 
 ### Content Justification (Milestone 2)
 
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Hero images improve the site's design and appeal.
 
 ## Information Architecture (Milestone 2)
 
