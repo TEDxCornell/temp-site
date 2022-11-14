@@ -169,7 +169,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
 
-4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger menu?
 
 5. Do you know about TED? Have you had any experience with it (attending in-person talks, watching recordings online, speaking, etc.)?
 
@@ -200,7 +200,7 @@ Monica Lee is a second-year student at Cornell; she is a transfer from Boston Co
    I think first impressions do matter. If I saw a website that wasn't well-put together it would give me the impression that the club isn't organized or professional. On the other hand, seeing a great website does make me believe a club is well-run.
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
    Sometimes, I run across this. It really depends on how bad it is. Usually some overlapping text is OK, but ideally it would not be there.
-4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger menu?
    I think giving feedback when a user submit forms could help.
 
 **Interviewee 2:**
@@ -210,14 +210,53 @@ TODO: tell us a bit about your participant
 TODO: copy interview questions
 TODO: take notes inline with questions
 
+TODO: add additional interviewees as needed
+
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+The participant is a sophomore at Cornell. She majors in Statistical Science.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself.
+   - sophomore
+   - Stats
 
-TODO: add additional interviewees as needed
+2. Recall the last time you visited a club/organization website.
+
+- What information were you looking for?
+- Did you find it?
+- Did you find the website helpful? Why or why not?
+- Does the website design affect your opinion of the club?
+
+   - now in Cornell Perfect Match (match students on valentine's day)
+   - remembered the first time visiting the PM website
+   - to find out what Perfect Match is
+   - to look at some stats about the event
+   - to know how to join the team
+   - failed to find the story about the team and introduction of members in the team
+   - the link to join the team was clear and big
+   - found good data visualization of last year's result
+   - helpful but need more content
+   - the design -- cute -- made me think that the club was passionate
+
+3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
+   - could not remember a specific club but some websites on mobile require scrolling left and right
+   - really hard to read / use
+   - if a club has such website, get a little annoyed
+   - would think that the club is not so reliable
+
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger menu?
+   - dropdown menus are good
+
+5. Do you know about TED? Have you had any experience with it (attending in-person talks, watching recordings online, speaking, etc.)?
+
+- If yes, did you visit any website for that experience?
+- What was your impression of the website?
+- Did you find the website helpful? Why or why not?
+
+   - yes - in high school, teachers asked us to watch TED videos
+   - googled the video and went to the official website
+   - professional; without many decorations; red, black, and white; simple
+   - helpful; the video was easy to find; the description below the video was very helpful
 
 **Interviewee 4:**
 
