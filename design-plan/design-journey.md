@@ -234,6 +234,22 @@ Monica Lee is a second-year student at Cornell; she is a transfer from Boston Co
 
 **Interviewee 2:**
 
+Joy D. is a sophomore at college studying ILR.
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+Joy is from NYC and goes to CORNELL Ilr school. Likes minerals.
+
+2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
+Yes it does. If the images are pixelated it makes the organization look bad. Same if there is a lot of information on the website. If it is high quality and good design, it makes the organization look valid. It is hitting her brain in the right symphonies.
+
+3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
+She is the type to only visit on computer. If you check website on phone, she says you are an incel. Mobile design doesn't matter to her.
+
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
+Dropdown menus are helpful. She likes big huge buttons that make it very easy to see things. She likes huge buttons. Basically she is Joy. She wanted to go to brown. Best place to be at cornell.
+
+**Interviewee 3:**
+
 TODO: tell us a bit about your participant
 
 TODO: copy interview questions
@@ -292,44 +308,51 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 
 **Interviewee 4:**
 
-TODO: tell us a bit about your participant
 
-TODO: copy interview questions
-TODO: take notes inline with questions
 
-TODO: add additional interviewees as needed
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+Alex, junior from california. Studying PAM
+
+2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
+It does affect his opinion. If the club has a bad website, the club is portrayed in a negative light. It makes him less inclined to apply.
+
+3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
+It does not matter too much. This is annoying but doesn't matter to much as he understands why it is difficult to put desktop on a phone.
+
+4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
+Not in particular. If the website is well organized, that is always more beneficial. Drop down menu in top corners are better.
 
 ### Goals (Milestone 2)
 
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: Find sufficient information about the club TEDX in general.
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - We will design our website with sufficient content that is easy to see on the main pages of ther websites. We will include all relevant information about logistics of the club, general information, and specific frequently asked questions.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - People come to this website to learn more about what the club is in general and decide if it is a good fit for them, thus they would likely want lots of information about the club.
 
-Goal 2: TODO: brief title
+Goal 2: Easily access information about club via website.
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Information should easy to find. We will put all main content in the middle of pages with accurate labels and design choices that group similar information together.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - People come to this website to look for information about the club or speakers but it wouldn't be good for users if all this information is hard to find. Therefore it is our goal to make the information easily accessible and intuitive.
 
-Goal 3: TODO: brief title
+Goal 3: Be able to Apply to the Club
 
-TODO: design ideas and rationale
+To do this, we will have easy to see buttons for information about applying to the club or speaker. These will be on main pages and are a primary goal for users because they come to this website to learn about the club and apply to the club.
 
-TODO: add as many goals as needed
+
 
 ### Audience (Milestone 2)
 
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+My site audience is everyone (normally Cornell Students) interested in applying to TedX Cornell Club via our website. This is one group of all people affiliated with cornell looking to apply to the club or be a speaker.
 
 ## Website Design Exploration (Milestone 2)
 
