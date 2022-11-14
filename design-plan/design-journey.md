@@ -217,6 +217,7 @@ TODO: add additional interviewees as needed
 The participant is a sophomore at Cornell. She majors in Statistical Science.
 
 1. Please tell me a bit about yourself.
+
    - sophomore
    - Stats
 
@@ -227,24 +228,26 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 - Did you find the website helpful? Why or why not?
 - Does the website design affect your opinion of the club?
 
-   - now in Cornell Perfect Match (match students on valentine's day)
-   - remembered the first time visiting the PM website
-   - to find out what Perfect Match is
-   - to look at some stats about the event
-   - to know how to join the team
-   - failed to find the story about the team and introduction of members in the team
-   - the link to join the team was clear and big
-   - found good data visualization of last year's result
-   - helpful but need more content
-   - the design -- cute -- made me think that the club was passionate
+  - now in Cornell Perfect Match (match students on valentine's day)
+  - remembered the first time visiting the PM website
+  - to find out what Perfect Match is
+  - to look at some stats about the event
+  - to know how to join the team
+  - failed to find the story about the team and introduction of members in the team
+  - the link to join the team was clear and big
+  - found good data visualization of last year's result
+  - helpful but need more content
+  - the design -- cute -- made me think that the club was passionate
 
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
+
    - could not remember a specific club but some websites on mobile require scrolling left and right
    - really hard to read / use
    - if a club has such website, get a little annoyed
    - would think that the club is not so reliable
 
 4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger menu?
+
    - dropdown menus are good
 
 5. Do you know about TED? Have you had any experience with it (attending in-person talks, watching recordings online, speaking, etc.)?
@@ -253,10 +256,10 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 - What was your impression of the website?
 - Did you find the website helpful? Why or why not?
 
-   - yes - in high school, teachers asked us to watch TED videos
-   - googled the video and went to the official website
-   - professional; without many decorations; red, black, and white; simple
-   - helpful; the video was easy to find; the description below the video was very helpful
+  - yes - in high school, teachers asked us to watch TED videos
+  - googled the video and went to the official website
+  - professional; without many decorations; red, black, and white; simple
+  - helpful; the video was easy to find; the description below the video was very helpful
 
 **Interviewee 4:**
 
@@ -390,20 +393,24 @@ TODO: why does this organization make sense for your audience (not you)?
 
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- Past Events
+- Apply
+- Frequently Asked Questions
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+These are appropriate names for our sites, because our home page will have general information, past events will house past event content, apply will be a page through which people can apply to become a speaker or member, and frequently asked questions will contain common questions that our target audience might have.
 
 ## Visual Theme (Milestone 2)
 
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+Our first theme idea is professional: white background, muted red, gray, and black, sans-serif font, sharp edges, and sparingly use of drop shadows. We believe that this theme is appropriate because it follows what many would expect from a "business website": conservative colors with simple but decisive design choices. We believe this theme could be appropriate because it gives off strong first impressions to our audience.
+
+Another theme idea we had was a more "future" theme, as TEDxCornell has a focus on creating ideas oriented towards "new" ideas. This would include more "futuristic" banners and hero images, perhaps with a monospace font. We believe this theme could be appropriate because it suits the brand that TEDxCornell tries to portray.
+
+Our last theme idea was a more club-like theme, slightly less uptight than the professional theme. We believe this theme could be appropriate because at the end of the day, TEDxCornell is a student organization.
 
 ## Design (Milestone 2)
 
