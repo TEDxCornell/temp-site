@@ -362,19 +362,19 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. [Cornell Blockchain Link](https://cornellblockchain.org/)
 
    ![Cornell Blockchain Wide Screen](cornell-blockchain.png)
 
    ![Cornell Blockchain Narrow Screen](cornell-blockchain-narrow.png)
 
-2. <TODO: website url>
+2. [Cornell Hedgefund Link](https://www.cornellhedgefund.org/)
 
    ![Cornell Hedgefund Wide Screen](cornell-hedgefund.png)
 
    ![Cornell Hedgefund Narrow Screen](cornell-hedgefund-narrow.png)
 
-3. <TODO: website url>
+3. [Cornell Consulting Link](https://www.cornellconsultingclub.org/)
 
    ![Cornell Consulting Wide Screen](cornell-consulting.png)
 
