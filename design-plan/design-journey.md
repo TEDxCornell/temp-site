@@ -237,16 +237,21 @@ Monica Lee is a second-year student at Cornell; she is a transfer from Boston Co
 Joy D. is a sophomore at college studying ILR.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-Joy is from NYC and goes to CORNELL Ilr school. Likes minerals.
+
+   - Joy is from NYC and goes to CORNELL Ilr school. Likes minerals.
 
 2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
-Yes it does. If the images are pixelated it makes the organization look bad. Same if there is a lot of information on the website. If it is high quality and good design, it makes the organization look valid. It is hitting her brain in the right symphonies.
+
+   - Yes it does.
+   - If the images are pixelated it makes the organization look bad. Same if there is a lot of information on the website. If it is high quality and good design, it makes the organization look valid. It is hitting her brain in the right symphonies.
 
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
-She is the type to only visit on computer. If you check website on phone, she says you are an incel. Mobile design doesn't matter to her.
+
+   - She is the type to only visit on computer. If you check website on phone, she says you are an incel. Mobile design doesn't matter to her.
 
 4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
-Dropdown menus are helpful. She likes big huge buttons that make it very easy to see things. She likes huge buttons. Basically she is Joy. She wanted to go to brown. Best place to be at cornell.
+
+   - Dropdown menus are helpful. She likes big huge buttons that make it very easy to see things. She likes huge buttons. Basically she is Joy. She wanted to go to brown. Best place to be at cornell.
 
 **Interviewee 3:**
 
@@ -299,26 +304,28 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 
 **Interviewee 4:**
 
-
-
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-Alex, junior from california. Studying PAM
+
+   - Alex, junior from california. Studying PAM
 
 2. Recall the last time you visited a club website, does the website design affect your opinion of the club.
-It does affect his opinion. If the club has a bad website, the club is portrayed in a negative light. It makes him less inclined to apply.
+
+   - It does affect his opinion. If the club has a bad website, the club is portrayed in a negative light. It makes him less inclined to apply.
 
 3. Have you visited a well-designed website that looked fine on a desktop but not on mobile? How did it affect your opinion of the the club?
-It does not matter too much. This is annoying but doesn't matter to much as he understands why it is difficult to put desktop on a phone.
+
+   - It does not matter too much. This is annoying but doesn't matter to much as he understands why it is difficult to put desktop on a phone.
 
 4. Recall the last time you visited any website, were there any features that made the website more accessible, such as a hamburger burger?
-Not in particular. If the website is well organized, that is always more beneficial. Drop down menu in top corners are better.
+
+   - Not in particular. If the website is well organized, that is always more beneficial. Drop down menu in top corners are better.
 
 ### Goals (Milestone 2)
 
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: Find sufficient information about the club TEDX in general.
+Goal 1: Find sufficient information about the club TEDX in general (their story, people, and events)
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - We will design our website with sufficient content that is easy to see on the main pages of ther websites. We will include all relevant information about logistics of the club, general information, and specific frequently asked questions.
@@ -332,11 +339,9 @@ Goal 2: Easily access information about club via website.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - People come to this website to look for information about the club or speakers but it wouldn't be good for users if all this information is hard to find. Therefore it is our goal to make the information easily accessible and intuitive.
 
-Goal 3: Be able to Apply to the Club
+Goal 3: Be able to Apply to the Club or become a speaker
 
 To do this, we will have easy to see buttons for information about applying to the club or speaker. These will be on main pages and are a primary goal for users because they come to this website to learn about the club and apply to the club.
-
-
 
 ### Audience (Milestone 2)
 
@@ -390,7 +395,7 @@ I think Cornell Hedgefund also does a great job at separating their information 
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-I think Cornell Consulting does a great job at implementing a sleek, professional theme, just like the previous two websites: white background, sans-serif font, sharp edges, etc. They also implement a hamburger burger and icon darkening.
+I think Cornell Consulting does a great job at implementing a sleek, professional theme, just like the previous two websites: white background, sans-serif font, sharp edges, etc. They also implement a hamburger burger and icon darkening. There are dropdown menus nested inside the hamburger menu. Some page names have a "+" beside them, indicating that a dropdown menu will appear if one of the sections is clicked.
 
 ## Content Planning (Milestone 2)
 
@@ -402,8 +407,8 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
 - Hero images
-- Past speaking events
-- Team member photos
+- Past speaking events with photos
+- Team member photos and brief descriptions
 - General information
 - Application information
 - History of TedxCornell
@@ -414,7 +419,7 @@ Plan your site's content.
 
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Hero images improve the site's design and appeal.
+These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Hero images improve the site's design and appeal. Introducing group members on the website makes the club look active and mature, also implying what kind of students would fit into the club for visitors who want to apply.
 
 ## Information Architecture (Milestone 2)
 
@@ -428,7 +433,7 @@ These content decisions satisfy our audience's goals by giving our audience the 
 In my first card sort, I had four sections focusing on 1) learning about TedXCornell, 2) learning about past events and what TedXCorenll is currently doing, 3) how to get connected with TedxCornell, and 4) other information on TedxCornell. In the first section, I started out thinking that I needed an about me section. This would serve as an introduction to the club. I also thought it would be more informative if the history was put next to the introduction, along with the mission statement, purpose, and socials. For my next section, I realized that I should put all content about events in one blob together. Having videos of past events, information on past speakers, annual events that might be hosted, and perhaps videos of the event themselves. Next, everything I thought that would relate to connecting with tedxcornell was put in a blob together. I put together a mailing list, information on how to become part of tedxcornell, how to become a speaker, and an excerpt encouraging people to join TedxCornell. Lastly, all information that I thought wouldn't fit in the other sections were put together. I thought that users would want to have an information section. I started knowing we wanted an FAQ content space. After that I knew there would be questions on the location of tedxcornell, how to get involved, and general questions on the event itself.
 
 ![CartSort 2](cardsort2.jpg)
-My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing  list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience
+My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing  list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience.
 
 ### Final Content Organization (Milestone 2)
 
@@ -473,9 +478,11 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- Hamburger burger on narrower screens
-- Button darkening on mouse hover
-- Form feedback on apply
+- Hamburger menu on narrower screens: A hamburger menu save space on narrow screens. It makes the website more clean and organized, which echoes back to our professional theme. It also helps the audience find the information they want as quickly as possible.
+- Dropdown menus in the main navbar (wide screens) and the hamburger menu (narrow screens). Some of the pages are long, so it will be helpful to enable the audience to jump to a specific subsection of a page from the navbar.
+- Button darkening on mouse hover: When a button is hovered over, the color of the button will darken. This is to provide feedback to the audience's actions and to tell them clicking on that element will trigger interactivity.
+- Dropdown answer in the FAQ page: The audience always go to the FAQ page with a question already in mind. The question title is the most important identifier of whether they can find what they want in this page. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer. This interactivity blocks other content in the page that might be unnecessary for the audience.
+- A slideshow which automatically advances for the lineup of speakers in the Past Event page. Currently, the photos of speakers and their topics take up a lot of spaces. These can be made a slideshow, where each slide introduces a speaker. The audience can change the slides by themselves, and the slides also alternate automatically after several seconds.
 
 ### Layout Exploration (Milestone 2)
 
@@ -516,7 +523,12 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-Our proposed interactivity includes a hamburger burger on narrower screens, which will increase real estate for more essential content. We also plan to include icon darkening on mouse hover to give user feedback on interactive elements. We also will try to implement form feedback for form validation.
+- A hamburger menu on narrower screens will increase real estate for more essential content. It also lets the visitors know the structure of the website and locate their needed content efficiently.
+- Nested dropdown menu in the main navbar enables the audience to get to a specific part of a page, which saves their time and makes the website look professional and organized.
+- Button darkening when hovered over provides feedback efficiently to the audience's actions. This feature makes the website more usable and helps the audience accomplish their goals in general.
+- The dropdown pattern in the FAQ page helps block other content that might be unnecessary for the audience so that they can quickly find what they want.
+- The slideshow of speakers of past events saves space. The audience don't have to scroll down and down and down to see all the speakers but just click on the next or previous buttons.
+
 
 ## Interactivity Plan (Milestone 2)
 
