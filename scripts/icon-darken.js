@@ -21,3 +21,15 @@ $("#faq").hover(() => {
 }, () => {
   $("#faq").removeClass("hover-bg")
 })
+
+$("#submit-speaker").hover(() => {
+  $("#submit-speaker").addClass("submit-hover-bg")
+}, () => {
+  $("#submit-speaker").removeClass("submit-hover-bg")
+})
+
+$("#submit-nomination").hover(() => {
+  $("#submit-nomination").addClass("submit-hover-bg")
+}, () => {
+  $("#submit-nomination").removeClass("submit-hover-bg")
+})

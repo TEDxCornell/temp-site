@@ -2,7 +2,17 @@ html {
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 
-#main-nav ul li {
+body {
+  margin: 20px;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  background-color: #333;
+}
+
+nav ul li {
   list-style: none;
   margin-right: 1rem;
   font-weight: 600;
@@ -31,51 +41,90 @@ html {
 }
 
 .hover-bg {
-  background-color: #A7140F;
+  background-color: #A7140F !important;
 }
 
-h1{
+.submit-hover-bg {
+  background-color: #4e4e4e !important;
+}
+
+.hidden {
+  display: none
+}
+
+.page-header {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.apply-label {
+  font-size: 1.25rem;
+}
+
+.apply-input {
+  width: 100%;
+  height: 2.5rem;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+
+.submit {
+  font-weight: 600;
+  font-size: 0.75rem;
+  color: #FFFFFF;
+  background-color: #000000;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-style: none;
+  border-radius: 5px;
+}
+
+h1 {
   font-size: 26px;
   margin: 30px 0px 5px 10px;
 }
 
-h2{
+h2 {
   font-size: 22px;
   margin: 30px 0px 0px 10px;
   color: #d1312c;
 }
 
-p{
+p {
   margin-left: 3%;
   margin-right: 3%;
   text-indent: 2em;
   font-size: 15px;
 }
 
-h3{
+h3 {
   font-size: 18px;
   margin: 20px 0px 0px 10px;
 }
 
-h4{
+h4 {
   font-size: 16px;
   margin: 20px 0px 0px 10px;
 }
 
-button{
+button {
   background-color: #ffffff00;
   text-align: left;
 }
 
 /** Past Events Page**/
 
-#past-events-nav ul{
+#past-events-nav ul {
   margin-top: 10px;
   margin-bottom: 10px;
   padding-left: 20px;
 }
 
-#past-events-nav li{
+#past-events-nav li {
   margin-top: 10px;
   margin-bottom: 10px;
   list-style-type: "\1F4A1";
@@ -83,7 +132,7 @@ button{
   font-weight: bold;
 }
 
-#past-events-nav a{
+#past-events-nav a {
   font-size: 15px;
   font-weight: bold;
   color: black;
