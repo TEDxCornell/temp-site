@@ -594,9 +594,10 @@ remove hidden class from their corresponding
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+OVerall, liked the addition of a dropmenu and a slider. They wanted the accordion to be bigger on the screen for the FAQ. They liked how we kept the original colors of TEDxCornell. They also added how they liked how we stuck to the theme of professional and formal. They told us that they wanted to remove the member faces from the orignal page.
 
-TODO: meeting minutes
+
+15 minutes
 
 ## User Testing (Final Submission)
 
