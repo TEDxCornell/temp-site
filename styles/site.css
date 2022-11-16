@@ -99,7 +99,7 @@ hr {
 
 /** Past Events Page**/
 
-.row img{
+#event-image1 img{
   width: 98%;
   margin-left: 1%;
   margin-right: 1%;
@@ -198,13 +198,26 @@ hr {
 }
 
 #slider22 div, #slider21 div{
-  display: flex;
-  flex-direction: column;
   margin-bottom: 20px;
 }
 
 #slider22 .hidden, #slider21 .hidden{
   display: none;
+}
+
+.speaker-wide{
+  display: flex;
+  flex-direction: column;
+}
+
+.speaker-wide{
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.speaker-wide figure{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /**Apply Page**/
@@ -256,7 +269,21 @@ hr {
   border-radius: 5px;
 }
 
-@media (min-width: 600px){
+@media (min-width: 700px){
+
+  p{
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  h2{
+    font-size: 26px;
+  }
+
+  h1{
+    font-size: 28px;
+  }
+
   .header{
     display: flex;
   }
@@ -296,6 +323,100 @@ hr {
   #burger{
     display: none;
   }
+
+  #past-events-body{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #past-events-body h2{
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+
+  .row{
+    display: flex;
+  }
+
+  .row p{
+    width: 60%;
+  }
+
+  .row ul{
+    padding-left: 2%;
+    padding-right: 0;
+    margin-right: 0px;
+    font-size: 20px;
+  }
+
+  .row nav{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #event-image1 img{
+    max-width: 1000px;
+  }
+
+  #past-events-body h3{
+    font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  #talks21{
+    margin-top: 30px;
+  }
+
+  #past-events-body h4{
+    font-size: 22px;
+  }
+
+  #uproot li button, #unmute li button{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 200;
+  }
+
+  #unmute-poster{
+    width: 50%;
+    margin: 0px;
+    margin-right: 20px;
+  }
+
+  #unmute-poster img{
+    width: 100%;
+    min-width: 250px;
+  }
+
+  .div_text{
+    width: 50%;
+  }
+
+}
+
+@media (min-width: 1000px){
+  .speaker-wide{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .speaker-wide p{
+    width: 50%;
+    margin: 20px;
+  }
+
+  .arrow-left, .arrow-right{
+    font-size: 36px;
+  }
+
+  .speaker-wide figure{
+    width: 50%;
+  }
+
 }
 
 .home {
