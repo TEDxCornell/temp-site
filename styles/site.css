@@ -34,7 +34,15 @@ html {
 }
 
 .hover-bg {
-  background-color: #A7140F !important;
+  background-color: #d1312c !important;
+}
+
+.hover-bg-grey {
+  background-color: rgb(130, 130, 130) !important;
+}
+
+.hover-text-red{
+  color: #d1312c;
 }
 
 body {
