@@ -297,3 +297,18 @@ hr {
     display: none;
   }
 }
+
+.home {
+  display: flex;
+  flex-direction: row;
+}
+
+.welcome {
+  width: 700px;
+}
+
+#homelogo {
+  width: 400px;
+  height: 100px;
+  background-color: #000000;
+}
