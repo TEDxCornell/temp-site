@@ -492,7 +492,19 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+![homepage](/design-plan/homepagedesign.png)
+![homepage with dropmenu](/design-plan/homepagedesigndropmenu.png)
+![FAQ](/design-plan/homepageFAQ.png)
+![mobile](/design-plan/mobile1.png)
+
+In this design, I focused on a more clean and professional look. The decided on using a gray background color for the navigation and the header. I thought having a gray top would make it stand out against the white background. I also thought it make more sense since the TEDxCornell logo has white and red colors, so naturally the font should be white. After that I incorporated some of the interactivity such as the carousel, dropdown menu, and the accordion for the desktop. For the mobile design, I stuck with the same design pattern but created a white hamburger menu at the top left. The font will be smooth which the images will have sharp corners. I chose to have contrasting colors to compliment the background.
+
+
+![desktop](/design-plan/homepage2.png)
+![mobile](/design-plan/mobile2.png)
+
+For my second design I still wanted to stay with the clean and professional look. I made alterations on where I wanted to have my slider and where I wanted my colors. I changed my header color to white which I thought would fit in with the white background. I then wanted to direct attention to the middle of the page so I made one half a slider and the other half have a gray background. Since dark gray and white are complimentary to each other it will stick out against the background. In that gray area I wanted to have the "About Us" introductary paragraph. Having a design like this will quickly grab the audiences attention while also showing them pictures of what TEDxCornell does
+
 
 ### Final Design (Milestone 2)
 
@@ -504,11 +516,17 @@ TODO: layout exploration sketches + explanation
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+![final design desktop](/design-plan/finaldesigndesktop.png)
+
+For the desktop, there needs to be a div container for the top. I would call that a class "container". Here you would need the logo img on the right, and then the nav, li, ul, a on the right. For the CSS, you would make the font family sans-serif, display the whole thing as a flex, make it a row flex-direction, and float the nav to the left. I also thought it would be beneficial if you could hover and make it red.
+After that there would have to be a div container for the entire middle, I called the class "middle". You would need a class for the carousel, so class= "carousel". Here there would be 3 images and buttons for the arrows ans dots. The images would have individual IDs. After this you would need a div class for the written section, so class is "written". You would need to make class= "middle" a flex, so display flex and flex direction is row. You would make the written section flex is a column. After this you should use the javascript snippets from class for the carousel.
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+![final design mobile](/design-plan/finaldesignmobile.png)
+
+For the mobile design, you would need a div class for the top, so class= container. Here you would center the logo at the middle and have button called "hamburger". After this, you need a carousel under it, so you would need a carousel class and 3 images with a class and individual ids. After this, you would have the written section under it using headings and paragraphs.
+
 
 ### Design Rationale (Milestone 2)
 
@@ -516,7 +534,7 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+I decided to choose design 2 since I thought it fit in more with the theme of formal and professional. On the desktop interface, the navigation would be to the very left while the header would be to the very right. This employs a very famiiar design making it quick and easy for the users to get comfortable with the website. I also thought that having sharp edges what give a more clean look to my website. However, since the website is directed at potential speakers and students of Cornell, I thought it would be better to have a smoother font like sans-serif. This would make it more inviting and approachable for the user. Additionally, for the mobile screen, there is a hamburger menu at the top left. This consistant with how the majority of websites are built. The colros I chose (gray, black, red, and white), all create a professional look. The white background is a neutral background, the gray will be the secondary color, the black will be the font color, and the red will be the accent color. This content organization meets the goals of the users by making it simple, familiar, and easy to access. Users will know exactly where everything is since the design is consistant with the majority of websites.
 
 ## Interactivity Rationale (Milestone 2)
 
