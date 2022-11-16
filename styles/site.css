@@ -55,6 +55,18 @@ nav ul li {
 .page-header {
   font-size: 2rem;
   font-weight: 600;
+  margin: 0px;
+  text-indent: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.page-subheader {
+  font-size: 1rem;
+  margin: 0px;
+  text-indent: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .apply-label {

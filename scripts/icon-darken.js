@@ -33,3 +33,7 @@ $("#submit-nomination").hover(() => {
 }, () => {
   $("#submit-nomination").removeClass("submit-hover-bg")
 })
+
+$(".submit").click((event) => {
+  event.preventDefault();
+})
