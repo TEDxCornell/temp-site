@@ -494,7 +494,7 @@ Document your site's layout.
 
 ![homepage](/design-plan/homepagedesign.png)
 ![homepage with dropmenu](/design-plan/homepagedesigndropmenu.png)
-![FAQ](/design-plan/homepageFAQ.png)
+![FAQ](/design-plan/homepage-faq.png)
 ![mobile](/design-plan/mobile1.png)
 
 In this design, I focused on a more clean and professional look. The decided on using a gray background color for the navigation and the header. I thought having a gray top would make it stand out against the white background. I also thought it make more sense since the TEDxCornell logo has white and red colors, so naturally the font should be white. After that I incorporated some of the interactivity such as the carousel, dropdown menu, and the accordion for the desktop. For the mobile design, I stuck with the same design pattern but created a white hamburger menu at the top left. The font will be smooth which the images will have sharp corners. I chose to have contrasting colors to compliment the background.
@@ -520,7 +520,7 @@ For my second design I still wanted to stay with the clean and professional look
 
 For the mobile design, you would need a div class for the top, so class= container. Here you would center the logo at the middle and have button called "hamburger". After this, you need a carousel under it, so you would need a carousel class and 3 images with a class and individual ids. After this, you would have the written section under it using headings and paragraphs.
 
-![final design faq](/design-plan/FaqGP.JPG)
+![final design faq](/design-plan/faq.jpg)
 This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
 
 ![Past Events final - narrow](past-events-narrow.jpg)
@@ -536,7 +536,7 @@ The layout comforms to the conventional pattern for narrow screens -- text and i
 For the desktop, there needs to be a div container for the top. I would call that a class "container". Here you would need the logo img on the right, and then the nav, li, ul, a on the right. For the CSS, you would make the font family sans-serif, display the whole thing as a flex, make it a row flex-direction, and float the nav to the left. I also thought it would be beneficial if you could hover and make it red.
 After that there would have to be a div container for the entire middle, I called the class "middle". You would need a class for the carousel, so class= "carousel". Here there would be 3 images and buttons for the arrows ans dots. The images would have individual IDs. After this you would need a div class for the written section, so class is "written". You would need to make class= "middle" a flex, so display flex and flex direction is row. You would make the written section flex is a column. After this you should use the javascript snippets from class for the carousel.
 
-![final design faq](/design-plan/FaqGP.JPG)
+![final design faq](/design-plan/faq.jpg)
 This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
 
 ![Past Events final - wide](past-events-wide.jpg)
