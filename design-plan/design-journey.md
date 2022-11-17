@@ -525,9 +525,12 @@ This is relatively the same on both narrow and wide views with possible exeption
 
 ![Past Events final - narrow](past-events-narrow.jpg)
 
-![Past Events final - narrow](past-events-slideshow.jpg)
+![Past Events - slideshow](past-events-slideshow.jpg)
 
 The layout comforms to the conventional pattern for narrow screens -- text and images are put in columns. Alignment is also important, because slight misalignments can make the audience think that the club is not professional enough. To maximize usability (and to shorten the page), two slideshows are implemented on the page. This pattern is different from the original website where all the speaker descriptions and photos are listed in columns. With the slideshow, the audience don't have to scroll down and down and down. There are three ways to alternate the slides so that the audience can trigger the interactivity efficiently.
+
+![Past Events - hamburger menu](hamburger-menu.jpg)
+This sketch explains what will happen when the audience click the hamburger menu on their mobile. When the button is clicked again, the navbar is set back to hidden.
 
 **Wide (Wide) Design:**
 
@@ -557,7 +560,6 @@ I decided to choose design 2 since I thought it fit in more with the theme of fo
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
 - A hamburger menu on narrower screens will increase real estate for more essential content. It also lets the visitors know the structure of the website and locate their needed content efficiently.
-- Nested dropdown menu in the main navbar enables the audience to get to a specific part of a page, which saves their time and makes the website look professional and organized.
 - Button darkening when hovered over provides feedback efficiently to the audience's actions. This feature makes the website more usable and helps the audience accomplish their goals in general.
 - The dropdown pattern in the FAQ page helps block other content that might be unnecessary for the audience so that they can quickly find what they want.
 - The slideshow of speakers of past events saves space. The audience don't have to scroll down and down and down to see all the speakers but just click on the next or previous buttons.
