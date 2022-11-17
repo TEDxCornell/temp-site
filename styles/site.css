@@ -10,6 +10,7 @@ html {
 
 .header .red {
   color: rgb(255, 43, 6);
+  font-weight: bolder;
 }
 
 .header .black {
