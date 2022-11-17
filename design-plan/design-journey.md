@@ -549,6 +549,9 @@ On wider screens, images and text can be put in row. For example, the descriptio
 ![Our Story final - wide](our-story-wide.jpg)
 Our story page on narrower screens changes from row flexboxes to column flexboxes to avoiding squeezing images. Furthermore, the ted information and tedxcornell information are stacked on top of each other to make more effective use of space.
 
+![Button darkening example](button-darkened.jpg)
+This shows how buttons change color when they are hovered over.
+
 ### Design Rationale (Milestone 2)
 
 > Explain why your design is appropriate for your audience.
