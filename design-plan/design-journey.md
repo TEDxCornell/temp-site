@@ -545,6 +545,9 @@ This is relatively the same on both narrow and wide views with possible exeption
 ![Past Events final - wide](past-events-wide.jpg)
 On wider screens, images and text can be put in row. For example, the description and photo of a speaker are now side by side so that the audience can glance through more information at a time. However, white spacing is still important, and the main content only makes up 70% of the window width. Such design helps establish the professional tone.
 
+![Button darkening example](button-darkened.jpg)
+This shows how buttons change color when they are hovered over.
+
 
 ### Design Rationale (Milestone 2)
 
