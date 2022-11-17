@@ -514,30 +514,11 @@ For my second design I still wanted to stay with the clean and professional look
 > However, you don't need to provide layout/CSS annotations.
 > Please, provide an explanation for each sketch.
 
-**Wide Design:**
-
+**Narrow Design:**
 
 ![final design mobile](/design-plan/finaldesignmobile.png)
 
 For the mobile design, you would need a div class for the top, so class= container. Here you would center the logo at the middle and have button called "hamburger". After this, you need a carousel under it, so you would need a carousel class and 3 images with a class and individual ids. After this, you would have the written section under it using headings and paragraphs.
-
-![final design faq](/design-plan/FaqGP.JPG)
-This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
-
-<<<<<<< HEAD
-![Past Events final - wide](past-events-wide.jpg)
-(The slideshow is explained later with mobile sketches.) On wider screens, images and text can be put in row. For example, the description and photo of a speaker are now side by side so that the audience can glance through more information at a time. However, white spacing is still important, and the main content only makes up 70% of the window width. Such design helps establish the professional tone.
-
-
-**Narrow Design:**
-=======
-**Wide (Wide) Design:**
->>>>>>> 0009a03576641a9c551eb5475ece80df75a3259e
-
-![final design desktop](/design-plan/finaldesigndesktop.png)
-
-For the desktop, there needs to be a div container for the top. I would call that a class "container". Here you would need the logo img on the right, and then the nav, li, ul, a on the right. For the CSS, you would make the font family sans-serif, display the whole thing as a flex, make it a row flex-direction, and float the nav to the left. I also thought it would be beneficial if you could hover and make it red.
-After that there would have to be a div container for the entire middle, I called the class "middle". You would need a class for the carousel, so class= "carousel". Here there would be 3 images and buttons for the arrows ans dots. The images would have individual IDs. After this you would need a div class for the written section, so class is "written". You would need to make class= "middle" a flex, so display flex and flex direction is row. You would make the written section flex is a column. After this you should use the javascript snippets from class for the carousel.
 
 ![final design faq](/design-plan/FaqGP.JPG)
 This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
@@ -547,6 +528,20 @@ This is relatively the same on both narrow and wide views with possible exeption
 ![Past Events final - narrow](past-events-slideshow.jpg)
 
 The layout comforms to the conventional pattern for narrow screens -- text and images are put in columns. Alignment is also important, because slight misalignments can make the audience think that the club is not professional enough. To maximize usability (and to shorten the page), two slideshows are implemented on the page. This pattern is different from the original website where all the speaker descriptions and photos are listed in columns. With the slideshow, the audience don't have to scroll down and down and down. There are three ways to alternate the slides so that the audience can trigger the interactivity efficiently.
+
+**Wide (Wide) Design:**
+
+![final design desktop](/design-plan/finaldesigndesktop.png)
+
+For the desktop, there needs to be a div container for the top. I would call that a class "container". Here you would need the logo img on the right, and then the nav, li, ul, a on the right. For the CSS, you would make the font family sans-serif, display the whole thing as a flex, make it a row flex-direction, and float the nav to the left. I also thought it would be beneficial if you could hover and make it red.
+After that there would have to be a div container for the entire middle, I called the class "middle". You would need a class for the carousel, so class= "carousel". Here there would be 3 images and buttons for the arrows ans dots. The images would have individual IDs. After this you would need a div class for the written section, so class is "written". You would need to make class= "middle" a flex, so display flex and flex direction is row. You would make the written section flex is a column. After this you should use the javascript snippets from class for the carousel.
+
+![final design faq](/design-plan/FaqGP.JPG)
+This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
+
+![Past Events final - wide](past-events-wide.jpg)
+On wider screens, images and text can be put in row. For example, the description and photo of a speaker are now side by side so that the audience can glance through more information at a time. However, white spacing is still important, and the main content only makes up 70% of the window width. Such design helps establish the professional tone.
+
 
 ### Design Rationale (Milestone 2)
 
