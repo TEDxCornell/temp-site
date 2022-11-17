@@ -432,7 +432,7 @@ These content decisions satisfy our audience's goals by giving our audience the 
 In my first card sort, I had four sections focusing on 1) learning about TedXCornell, 2) learning about past events and what TedXCorenll is currently doing, 3) how to get connected with TedxCornell, and 4) other information on TedxCornell. In the first section, I started out thinking that I needed an about me section. This would serve as an introduction to the club. I also thought it would be more informative if the history was put next to the introduction, along with the mission statement, purpose, and socials. For my next section, I realized that I should put all content about events in one blob together. Having videos of past events, information on past speakers, annual events that might be hosted, and perhaps videos of the event themselves. Next, everything I thought that would relate to connecting with tedxcornell was put in a blob together. I put together a mailing list, information on how to become part of tedxcornell, how to become a speaker, and an excerpt encouraging people to join TedxCornell. Lastly, all information that I thought wouldn't fit in the other sections were put together. I thought that users would want to have an information section. I started knowing we wanted an FAQ content space. After that I knew there would be questions on the location of tedxcornell, how to get involved, and general questions on the event itself.
 
 ![CartSort 2](cardsort2.jpg)
-My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing  list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience.
+My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience.
 
 ### Final Content Organization (Milestone 2)
 
@@ -499,12 +499,10 @@ Document your site's layout.
 
 In this design, I focused on a more clean and professional look. The decided on using a gray background color for the navigation and the header. I thought having a gray top would make it stand out against the white background. I also thought it make more sense since the TEDxCornell logo has white and red colors, so naturally the font should be white. After that I incorporated some of the interactivity such as the carousel, dropdown menu, and the accordion for the desktop. For the mobile design, I stuck with the same design pattern but created a white hamburger menu at the top left. The font will be smooth which the images will have sharp corners. I chose to have contrasting colors to compliment the background.
 
-
 ![desktop](/design-plan/homepage2.png)
 ![mobile](/design-plan/mobile2.png)
 
 For my second design I still wanted to stay with the clean and professional look. I made alterations on where I wanted to have my slider and where I wanted my colors. I changed my header color to white which I thought would fit in with the white background. I then wanted to direct attention to the middle of the page so I made one half a slider and the other half have a gray background. Since dark gray and white are complimentary to each other it will stick out against the background. In that gray area I wanted to have the "About Us" introductary paragraph. Having a design like this will quickly grab the audiences attention while also showing them pictures of what TEDxCornell does
-
 
 ### Final Design (Milestone 2)
 
@@ -532,6 +530,9 @@ The layout comforms to the conventional pattern for narrow screens -- text and i
 ![Past Events - hamburger menu](hamburger-menu.jpg)
 This sketch explains what will happen when the audience click the hamburger menu on their mobile. When the button is clicked again, the navbar is set back to hidden.
 
+![Our Story final - narrow](our-story-narrow.jpg)
+Our story displays tedxcornell information with ted information along with team member information and photos in row flexbox containers.
+
 **Wide (Wide) Design:**
 
 ![final design desktop](/design-plan/finaldesigndesktop.png)
@@ -545,6 +546,8 @@ This is relatively the same on both narrow and wide views with possible exeption
 ![Past Events final - wide](past-events-wide.jpg)
 On wider screens, images and text can be put in row. For example, the description and photo of a speaker are now side by side so that the audience can glance through more information at a time. However, white spacing is still important, and the main content only makes up 70% of the window width. Such design helps establish the professional tone.
 
+![Our Story final - wide](our-story-wide.jpg)
+Our story page on narrower screens changes from row flexboxes to column flexboxes to avoiding squeezing images. Furthermore, the ted information and tedxcornell information are stacked on top of each other to make more effective use of space.
 
 ### Design Rationale (Milestone 2)
 
@@ -563,7 +566,6 @@ I decided to choose design 2 since I thought it fit in more with the theme of fo
 - Button darkening when hovered over provides feedback efficiently to the audience's actions. This feature makes the website more usable and helps the audience accomplish their goals in general.
 - The dropdown pattern in the FAQ page helps block other content that might be unnecessary for the audience so that they can quickly find what they want.
 - The slideshow of speakers of past events saves space. The audience don't have to scroll down and down and down to see all the speakers but just click on the next or previous buttons.
-
 
 ## Interactivity Plan (Milestone 2)
 
