@@ -325,7 +325,7 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: Find sufficient information about the club TEDX in general (their story, people, and events)
+Goal 1: Find sufficient information about the club TEDxCornell in general (their story, people, and events)
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - We will design our website with sufficient content that is easy to see on the main pages of ther websites. We will include all relevant information about logistics of the club, general information, and specific frequently asked questions.
@@ -335,7 +335,7 @@ Goal 1: Find sufficient information about the club TEDX in general (their story,
 Goal 2: Easily access information about club via website.
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - Information should easy to find. We will put all main content in the middle of pages with accurate labels and design choices that group similar information together.
+  - Information should easy to find. We will put all main content in the middle of pages with accurate labels and design choices that group similar information together. We will also make the navbar easy to follow.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - People come to this website to look for information about the club or speakers but it wouldn't be good for users if all this information is hard to find. Therefore it is our goal to make the information easily accessible and intuitive.
 
@@ -406,20 +406,19 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- Hero images
 - Past speaking events with photos
 - Team member photos and brief descriptions
-- General information
-- Application information
+- Application information (including applying to be a speaker, nominating a speaker, and applying to be a club member)
 - History of TedxCornell
 - Mission Statement
 - Purpose and introduction to the club
+- Entry to join the mailing list
 
 ### Content Justification (Milestone 2)
 
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Hero images improve the site's design and appeal. Introducing group members on the website makes the club look active and mature, also implying what kind of students would fit into the club for visitors who want to apply.
+These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Introducing group members on the website makes the club look active and mature, also implying what kind of students would fit into the club for visitors who want to apply.
 
 ## Information Architecture (Milestone 2)
 
@@ -445,18 +444,20 @@ We are planning on using card iteration 2.
 
 Card iteration 2 makes more sense in terms of familiarity and convenience. Switching the mailing list to the first section would make it easier for our users to quickly subscribe to the mailing list without having to search for it. It also makes more sense chronologically since the majority of websites have the mailing list on the first pafe where it is easily seen. Additionally I think it makes more sense to have an "how to get more involved" statement in the section where they are encouraging users to join TedxCornell. Lastly, I thought that all information that fell outside the realm of the beginning sections should belong on an FAQ or information page. This includes information that speakers, cornellians, or outsiders may want to know.
 
+UPDATES: Later we decided to replace the "Apply" page with "Our Story." We plan to put information about application on the home page and other sections. For example, we will have an entry on the Past Events page in case the audience want to apply to be a speaker after reading about past events. It is unnecessary to make a page only for application. Some of the content initially on the home page will be put on Our Story. The home page becomes more concise so that the audience don't get impatient reading through it.
+
 ### Navigation (Milestone 2)
 
 > Please list the pages you will include in your website's navigation.
 
 - Home
 - Past Events
-- Apply
+- Our Story
 - Frequently Asked Questions
 
 > Explain why the names of these pages make sense for your site's audience.
 
-These are appropriate names for our sites, because our home page will have general information, past events will house past event content, apply will be a page through which people can apply to become a speaker or member, and frequently asked questions will contain common questions that our target audience might have.
+These are appropriate names for our sites, because our home page will have general information, past events will house past event content, our story page will be about the history of the club and members, and frequently asked questions will contain common questions that our target audience might have.
 
 ## Visual Theme (Milestone 2)
 
@@ -479,7 +480,6 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger menu on narrower screens: A hamburger menu save space on narrow screens. It makes the website more clean and organized, which echoes back to our professional theme. It also helps the audience find the information they want as quickly as possible.
-- Dropdown menus in the main navbar (wide screens) and the hamburger menu (narrow screens). Some of the pages are long, so it will be helpful to enable the audience to jump to a specific subsection of a page from the navbar.
 - Button darkening on mouse hover: When a button is hovered over, the color of the button will darken. This is to provide feedback to the audience's actions and to tell them clicking on that element will trigger interactivity.
 - Dropdown answer in the FAQ page: The audience always go to the FAQ page with a question already in mind. The question title is the most important identifier of whether they can find what they want in this page. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer. This interactivity blocks other content in the page that might be unnecessary for the audience.
 - A slideshow which automatically advances for the lineup of speakers in the Past Event page. Currently, the photos of speakers and their topics take up a lot of spaces. These can be made a slideshow, where each slide introduces a speaker. The audience can change the slides by themselves, and the slides also alternate automatically after several seconds.
@@ -514,7 +514,7 @@ For my second design I still wanted to stay with the clean and professional look
 > However, you don't need to provide layout/CSS annotations.
 > Please, provide an explanation for each sketch.
 
-**Narrow (Mobile) Design:**
+**Wide Design:**
 
 ![final design desktop](/design-plan/finaldesigndesktop.png)
 
@@ -524,8 +524,11 @@ After that there would have to be a div container for the entire middle, I calle
 ![final design faq](/design-plan/FaqGP.JPG)
 This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
 
+![Past Events final - wide](past-events-wide.jpg)
+(The slideshow is explained later with mobile sketches.) On wider screens, images and text can be put in row. For example, the description and photo of a speaker are now side by side so that the audience can glance through more information at a time. However, white spacing is still important, and the main content only makes up 70% of the window width. Such design helps establish the professional tone.
 
-**Wide (Wide) Design:**
+
+**Narrow Design:**
 
 ![final design mobile](/design-plan/finaldesignmobile.png)
 
@@ -534,6 +537,11 @@ For the mobile design, you would need a div class for the top, so class= contain
 ![final design faq](/design-plan/FaqGP.JPG)
 This is relatively the same on both narrow and wide views with possible exeptions of the navigation but overall all looks the same. In the final Design of the FAQ page, there is a page title/header, then a blurb about the details of the page. Lastly, the main content of the pages are sets of question and answers of common questions and answers. When the users click different pages it takes them accordingly. There is not much interactivity on this page.
 
+![Past Events final - narrow](past-events-narrow.jpg)
+
+![Past Events final - narrow](past-events-slideshow.jpg)
+
+The layout comforms to the conventional pattern for narrow screens -- text and images are put in columns. Alignment is also important, because slight misalignments can make the audience think that the club is not professional enough. To maximize usability (and to shorten the page), two slideshows are implemented on the page. This pattern is different from the original website where all the speaker descriptions and photos are listed in columns. With the slideshow, the audience don't have to scroll down and down and down. There are three ways to alternate the slides so that the audience can trigger the interactivity efficiently.
 
 
 ### Design Rationale (Milestone 2)
@@ -562,48 +570,113 @@ I decided to choose design 2 since I thought it fit in more with the theme of fo
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
+1. Hamburger menu
+
 CSS classes:
 
 - hidden class
-- hover-background class
 
 HTML elements:
 
-- buttons (navigation)
-- paragraph elements (form feedback)
+- the list inside the navbar
 
 Events:
 
 - click listeners
-- hover listeners
 - window resize
 
-Pseudocode:
+```
+if window size grows smaller than 600px:
+   hide the navigation bar and show the hamburger menu;
 
-if window size grows smaller than 700px
-hide the navigation bar and show the hamburger menu
+if the window size is smaller than 600px and the hamburger menu is clicked:
+   show a navigation bar if the navigation bar is hidden; otherwise, hide the navigation bar
 
-if the window size is smaller than 700px and the hamburger menu is clicked
-show a navigation bar if the navigation bar is hidden; otherwise, hide the navigation bar
+if window size is ever greater than 600px we show the default navigation bar
+```
 
-if window size is ever greater than 700px we show the default navigation bar
+2. Buttons darken when hovered over
 
+CSS classes:
+
+- hover-background class
+
+HTML elements:
+
+- buttons
+
+Events:
+
+- hover listeners
+
+```
 if a mouse is hovering over a button element
-add the darkening background class to the button
-if a mouse is no longer hovering over a button element
-remove the darkening background class to the button
+   add the darkening background class to the button
 
-on a form submit
-if any fields are empty
-remove hidden class from their corresponding
+if a mouse is no longer hovering over a button element
+   remove the darkening background class to the button
+```
+
+3. Slideshow of speakers' information
+
+CSS classes:
+
+- hidden class
+- slides class
+
+HTML elements:
+
+- units of speaker information (including the name, the topic, the description, and the photo); each unit in a div element and in a class of "slides"
+- buttons: "previous" and "next"
+- above the slideshow there is a list of speakers; each item in the list is also a button
+
+Events:
+
+- click an item in the list
+- click the "previous" or "next" button
+- timer (10 seconds)
+
+```
+If the current slide has been displayed for 10 seconds:
+   show next slide.
+
+If the previous button is clicked:
+   show the previous slide of the current slide.
+
+If the next button is clicked:
+   show the next slide of the current slide.
+
+If an item in the button list is clicked:
+   jump to the slide indicated by the item.
+```
+
+4. Accordion in FAQ
+
+CSS classes:
+
+- hidden class
+
+HTML elements:
+
+- answers which are initially hidden
+- questions as buttons
+
+Events:
+
+- click on a question
+
+```
+If a question is clicked:
+   show the associated answer if it is currently hidden.
+   hide the associated answer if it is currently displayed.
+```
 
 ## Client Feedback & Minutes (Milestone 2)
 
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-OVerall, liked the addition of a dropmenu and a slider. They wanted the accordion to be bigger on the screen for the FAQ. They liked how we kept the original colors of TEDxCornell. They also added how they liked how we stuck to the theme of professional and formal. They told us that they wanted to remove the member faces from the orignal page.
-
+OVerall, liked the addition of a dropmenu and a slider. They wanted the accordion to be bigger on the screen for the FAQ. They liked how we kept the original colors of TEDxCornell. They also added how they liked how we stuck to the theme of professional and formal.
 
 15 minutes
 
