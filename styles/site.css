@@ -187,13 +187,13 @@ h4 {
 
 /** Past Events Page**/
 
-#event-image1{
+#event-image1, #event-image4{
   display: flex;
   margin: 0px;
   margin-top: 10px;
 }
 
-#event-image1 img {
+#event-image1 img, #event-image4 img{
   min-width: 200px;
   max-width: 600px;
   margin-top: 0px;
@@ -231,19 +231,37 @@ h4 {
   margin-bottom: 10px;
 }
 
-#events_photo_21{
+#events_photo_21, #events_photos{
   display: flex;
   flex-direction: column;
 }
 
 #uproot img,
-#unmute img {
+#unmute img,
+#events_photos img{
   width: 100%;
   min-width: 300px;
   max-width: 500px;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#uproot-posters{
+  display: flex;
+  margin-top: 20px;
+}
+
+#uproot-posters figure{
+  width: 50%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#uproot-posters img{
+  min-width: 150px;
+  max-width: 400px;
+  width: 100%;
 }
 
 #uproot li,
@@ -267,17 +285,17 @@ h4 {
 
 .arrow-right {
   position: absolute;
-  top: 60px;
+  top: 70px;
   right: 5%;
-  font-size: 25px;
+  font-size: 26px;
   background-color: rgb(207, 204, 204);
 }
 
 .arrow-left {
   position: absolute;
-  top: 60px;
+  top: 70px;
   left: 5%;
-  font-size: 25px;
+  font-size: 28px;
   background-color: rgb(207, 204, 204);
 }
 
@@ -290,7 +308,7 @@ h4 {
 .speaker-heading p {
   font-size: 14px;
   text-indent: 0;
-  margin: 10px 20px 0px 20px;
+  margin: 10px 10% 0px 10%;
 }
 
 .speaker-heading h5 {
@@ -299,8 +317,7 @@ h4 {
 }
 
 .speaker-wide p{
-  margin-top: 10px;
-  margin-bottom: 0px;
+  margin: 10px 6% 0px 6%;
 }
 
 #slider22 img,
@@ -328,6 +345,14 @@ h4 {
 .speaker-wide figure {
   margin-left: auto;
   margin-right: auto;
+}
+
+#unmute-poster{
+  display: flex;
+}
+
+#unmute-poster img{
+  max-width: 400px;
 }
 
 /**Apply Page**/
@@ -529,7 +554,7 @@ h4 {
     min-width: 250px;
   }
 
-  #events_photo_21{
+  #events_photo_21, #events_photos{
     display: flex;
     flex-direction: row;
   }

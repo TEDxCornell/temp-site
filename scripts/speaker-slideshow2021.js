@@ -25,18 +25,18 @@ function showSlide(num) {
     currentSlide.removeClass("hidden")
 }
 
-var timer = setInterval(nextSlide, 10000);
+var timer = setInterval(nextSlide, 60000);
 
 $(".arrow-right").click(function() {
     nextSlide();
     clearInterval(timer);
-    timer = setInterval(nextSlide, 10000);
+    timer = setInterval(nextSlide, 60000);
   });
 
 $(".arrow-left").click(function() {
     prevSlide();
     clearInterval(timer);
-    timer = setInterval(nextSlide, 10000);
+    timer = setInterval(nextSlide, 60000);
 });
 
 /* Below: set the timer to 3min if the visitor clicks to see a specific speaker so that they have enough time to read*/
