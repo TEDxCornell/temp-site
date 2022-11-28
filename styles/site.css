@@ -1,5 +1,7 @@
 html {
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji, sans-serif;
+  letter-spacing: 0.4px;
+  color: rgba(85,85,85);
 }
 
 .header p{
@@ -186,22 +188,33 @@ h4 {
 /** Past Events Page**/
 
 #event-image1{
-  margin-left: 3.5%;
-  margin-right: 3.5%;
+  display: flex;
+  margin: 0px;
+  margin-top: 10px;
 }
 
 #event-image1 img {
-  width: 100%;
   min-width: 200px;
   max-width: 600px;
-  margin-top: 10px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #past-events-nav ul {
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 10%;
+  margin-left: 8%;
   padding-left: 0px;
+}
+
+#past-events-nav ul li ul{
+  display: flex;
+  margin-left: 5%;
+}
+
+#past-events-nav ul li ul li{
+  width: 50%;
 }
 
 #past-events-nav li {
@@ -218,12 +231,19 @@ h4 {
   margin-bottom: 10px;
 }
 
+#events_photo_21{
+  display: flex;
+  flex-direction: column;
+}
+
 #uproot img,
 #unmute img {
   width: 100%;
   min-width: 300px;
-  max-width: 800px;
+  max-width: 500px;
   margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #uproot li,
@@ -367,55 +387,56 @@ h4 {
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   h1 {
-    font-size: 28px;
-  }
-
-  .header {
-    display: flex;
+    font-size: 26px;
   }
 
   .header p {
-    font-size: 2rem;
+    font-size: 1.8rem;
+    position: static;
   }
 
-  #main-nav {
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 2rem;
+  #main-nav{
+    position: static;
+    display: inline-block;
+    width: 60%;
   }
 
   #main-nav ul li {
     margin-right: 1rem;
-    font-weight: 600;
-    font-size: 1rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    margin-top: 5px;
   }
 
   #main-nav ul {
     display: flex;
-    flex-direction: row;
     padding: 0px;
+    margin-bottom: 10px;
   }
 
-  #main-nav a {
+  #main-nav ul li a {
     text-decoration: none;
     color: black;
     text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 700;
+    word-spacing: 1px;
   }
 
   #burger {
     display: none;
   }
 
+  /** For past events page **/
+
   #past-events-body {
-    width: 70%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -423,6 +444,16 @@ h4 {
   #past-events-body h2 {
     margin-bottom: 20px;
     margin-top: 40px;
+    margin-left: 0px;
+  }
+
+  #past-events-body h1{
+    margin-left: 0px;
+  }
+
+  #past-events-body p{
+    margin-left: 0px;
+    margin-right: 10px;
   }
 
   .row {
@@ -437,7 +468,7 @@ h4 {
     padding-left: 2%;
     padding-right: 0;
     margin-right: 0px;
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .row nav {
@@ -445,6 +476,10 @@ h4 {
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  #past-events-nav ul li ul{
+    flex-direction: column;
   }
 
   #event-image1 img {
@@ -455,6 +490,11 @@ h4 {
     font-size: 26px;
     margin-top: 20px;
     margin-bottom: 30px;
+    margin-left: 0px;
+  }
+
+  #past-events-body img{
+    max-width: 800px;
   }
 
   #talks21 {
@@ -463,6 +503,7 @@ h4 {
 
   #past-events-body h4 {
     font-size: 22px;
+    margin-left: 0px;
   }
 
   #uproot li button,
@@ -470,6 +511,11 @@ h4 {
     text-decoration: none;
     font-size: 16px;
     font-weight: 200;
+  }
+
+  #slider21 p, #slider22{
+    margin-left: 40px;
+    margin-right: 20px;
   }
 
   #unmute-poster {
@@ -483,13 +529,42 @@ h4 {
     min-width: 250px;
   }
 
+  #events_photo_21{
+    display: flex;
+    flex-direction: row;
+  }
+
   .div_text {
     width: 50%;
   }
 
+  .footer{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .footer nav{
+    display: flex;
+  }
+
+  .footer nav ul{
+    width: 50%;
+  }
+
+  .footer nav ul li a{
+    font-size: 18px;
+  }
+
 }
 
+
 @media (min-width: 1000px) {
+
+  .footer{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
   .speaker-wide {
     display: flex;
     flex-direction: row;
