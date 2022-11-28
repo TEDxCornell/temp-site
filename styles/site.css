@@ -3,9 +3,15 @@ html {
 }
 
 .header p {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   text-indent: 0;
   font-weight: bold;
+
+  display: inline-block;
+  position: relative;
+  left: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .header .red {
@@ -17,21 +23,46 @@ html {
   color: black;
 }
 
-#burger {
-  display: inline-block;
-  margin-top: auto;
-  margin-bottom: auto;
-  font-size: 1.5rem;
+#burger, #cross{
+  font-size: 1.8rem;
+  margin-left: 20px;
 }
 
-.burger_and_header {
-  display: flex;
+#main-nav{
+  z-index: 1;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  top: 30%;
+}
+
+#main-nav ul{
+  padding-left: 28px;
 }
 
 #main-nav ul li {
   list-style: none;
-  font-weight: 600;
-  font-size: 1rem;
+  margin-top: 20px;
+}
+
+#main-nav ul li a{
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.iAmHere{
+  color: #A7140F;
+}
+
+.iAmNotHere{
+  color: black;
+}
+
+.transparent{
+  opacity: 0.1;
 }
 
 .hover-bg {
@@ -82,6 +113,7 @@ h3 {
 button {
   background-color: #ffffff00;
   text-align: left;
+  border: none;
 }
 
 h4 {

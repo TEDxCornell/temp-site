@@ -13,31 +13,28 @@
   <!-- all content: provided by the client-->
   <div class="header">
 
-    <div class="burger_and_header">
-      <p><span class="red">TEDx</span><span class="black">Cornell</span></p>
+    <button id = "navbutton"><span id = "burger">☰</span><span class = "hidden" id = "cross">&#x2715;</span></button>
 
-      <span id="burger">☰</span>
+  <p><span class = "red">TEDx</span><span class = "black">Cornell</span></p>
 
-    </div>
+  <nav id = "main-nav" class = "hidden">
+    <ul>
+      <li id="home">
+        <a href="index.html" class = "iAmNotHere">HOME</a>
+      </li>
+      <li id="past-events">
+        <a href="past-events.html" class = "iAmNotHere">PAST EVENTS</a>
+      </li>
+      <li id="apply">
+        <a href="our-story.html" class = "iAmHere">OUR STORY</a>
+      </li>
+      <li id="faq">
+        <a href="faq.html" class = "iAmNotHere">FAQ</a>
+      </li>
+    </ul>
+  </nav>
 
-    <nav id="main-nav">
-      <ul>
-        <li id="home">
-          <a href="index.html">HOME</a>
-        </li>
-        <li id="past-events">
-          <a href="past-events.html">PAST EVENTS</a>
-        </li>
-        <li id="apply">
-          <a href="our-story.html">OUR STORY</a>
-        </li>
-        <li id="faq">
-          <a href="faq.html">FAQ</a>
-        </li>
-      </ul>
-    </nav>
-
-  </div>
+</div>
 
 
   <h1>Our Story</h1>
@@ -159,6 +156,7 @@
 
   <script src="scripts/jquery-3.6.1.js"></script>
   <script src="scripts/icon-darken.js"></script>
+  <script src="scripts/hamburger-menu.js"></script>
 </body>
 
 </html>

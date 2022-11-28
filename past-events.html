@@ -14,31 +14,30 @@
 
 <div class = "header">
 
-<div class = "burger_and_header">
+<button id = "navbutton"><span id = "burger">☰</span><span class = "hidden" id = "cross">&#x2715;</span></button>
+
 <p><span class = "red">TEDx</span><span class = "black">Cornell</span></p>
 
-<span id = "burger">☰</span>
-
-</div>
-
-<nav id = "main-nav">
+<nav id = "main-nav" class = "hidden">
   <ul>
     <li id="home">
-      <a href="index.html">HOME</a>
+      <a href="index.html" class = "iAmNotHere">HOME</a>
     </li>
     <li id="past-events">
-      <a href="past-events.html">PAST EVENTS</a>
+      <a href="past-events.html" class = "iAmHere">PAST EVENTS</a>
     </li>
     <li id="apply">
-      <a href="our-story.html">OUR STORY</a>
+      <a href="our-story.html" class = "iAmNotHere">OUR STORY</a>
     </li>
     <li id="faq">
-      <a href="faq.html">FAQ</a>
+      <a href="faq.html" class = "iAmNotHere">FAQ</a>
     </li>
   </ul>
 </nav>
 
 </div>
+
+<div class = "main">
 
 <h1>Past Events</h1>
 
@@ -431,11 +430,13 @@
 </div>
 </div>
 </div>
+</div>
 
 <script src="scripts/jquery-3.6.1.js"></script>
 <script src="scripts/icon-darken.js"></script>
 <script src="scripts/speaker-slideshow2022.js"></script>
 <script src="scripts/speaker-slideshow2021.js"></script>
+<script src="scripts/hamburger-menu.js"></script>
 </body>
 
 </html>
