@@ -9,10 +9,9 @@ html {
   font-weight: bold;
 
   display: inline-block;
-  position: relative;
-  left: 30%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  position: absolute;
+  right: 0px;
+  margin-top: 8px;
 }
 
 .footer p{
@@ -91,10 +90,15 @@ html {
 
 #main-nav ul li a{
   text-decoration: none;
-  font-weight: 800;
+  font-weight: bold;
   font-size: 22px;
   letter-spacing: 1px;
   word-spacing: 3px;
+}
+
+.dropdown li a{
+  font-size: 18px !important;
+  color: black;
 }
 
 .iAmHere{
@@ -109,7 +113,7 @@ html {
   opacity: 0.1;
 }
 
-#main-nav ul li a:hover{
+#main-nav ul li a:hover, .events-button:hover{
   color: #d1312c !important;
 }
 
@@ -141,6 +145,15 @@ body {
 
 .bg_div{
   position: relative !important;
+}
+
+.bg_div a{
+  text-decoration: none;
+  font-size: 10px;
+  color: black;
+  position: absolute;
+  bottom: 5%;
+  left: 2%;
 }
 
 h2 {
@@ -191,6 +204,23 @@ h4 {
   display: block;
   border-bottom: 2.5px solid rgb(255, 43, 6);
   margin-bottom: 3.5%;
+}
+
+.events-button{
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+.background{
+  width: 100%;
+  max-width: 1800px;
+  opacity: 0.4;
+}
+
+#cornell{
+  opacity: 0.7;
 }
 
 /** Past Events Page**/
@@ -372,63 +402,62 @@ h4 {
   color: #d1312c;
 }
 
-/**Apply Page**/
+/** Our Story Page**/
 
-.apply {
-  margin: 20px;
+.member-container h3{
+  font-size: 20px;
+  margin-bottom: 20px !important;
+  margin-top: 10px !important;
 }
 
-.page-header {
-  font-size: 2rem;
-  font-weight: 600;
-  margin: 0px;
-  text-indent: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+#last{
+  margin-top: 10px;
 }
 
 .page-subheader {
-  font-size: 1rem;
-  margin: 0px;
-  text-indent: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-left: 4%;
+  margin-right: 3%;
+  font-size: 15px;
 }
 
-.apply-label {
-  font-size: 1.25rem;
+#info-wrapper {
+  display: flex;
+  flex-direction: column;
 }
 
-.apply-input {
+.member-container {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.member-subcontainer {
+  display: flex;
+  flex-direction: row;
+  margin: 0px !important;
+}
+
+.member-subcontainer figure{
+  width: 65%;
+}
+
+.member-image {
   width: 100%;
-  height: 2.5rem;
-  margin-bottom: 10px;
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 3px;
+  max-width: 350px;
+  min-width: 200px;
+  display: block;
 }
 
-.submit {
-  font-weight: 600;
-  font-size: 0.75rem;
-  color: #FFFFFF;
-  background-color: #000000;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-  border-style: none;
-  border-radius: 5px;
+.card figcaption{
+  padding: 10px 0px;
+  text-align: center;
+  background-color: rgb(223, 223, 223);
+  font-size: 18px;
+  max-width: 350px;;
 }
 
-.background{
-  width: 100%;
-  max-width: 1800px;
-  opacity: 0.4;
-}
-
-#cornell{
-  opacity: 0.7;
+.card{
+  margin-bottom: 20px !important;
 }
 
 @media (min-width: 700px) {
@@ -470,11 +499,10 @@ h4 {
   }
 
   #main-nav ul li {
-    margin-right: 1rem;
-    padding-left: 0.3rem;
-    padding-right: 0.3rem;
-    padding-top: 0.7rem;
-    padding-bottom: 0.7rem;
+    padding-left: 0.9rem;
+    padding-right: 0.1rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
     margin-top: 5px;
   }
 
@@ -484,17 +512,39 @@ h4 {
     margin-bottom: 10px;
   }
 
-  #main-nav ul li a {
+  #main-nav ul li a, .events-button{
     text-decoration: none;
     color: black;
     text-transform: uppercase;
     font-size: 1rem;
     font-weight: 700;
-    word-spacing: 1px;
+    word-spacing: 0.8px;
   }
 
   #burger {
     display: none;
+  }
+
+  .dropdown{
+    z-index: 1;
+    position: absolute;
+    flex-direction: column;
+    background-color: white;
+    border: 2px solid #C8C8C8;
+    margin-top: 10px;
+  }
+
+  .dropdown li a{
+    font-size: 15px !important;
+  }
+
+  .dropdown li{
+    padding: 0px !important;
+    margin: 10px 15px !important;
+  }
+
+  .hidden_dropdown{
+    display: none !important;
   }
 
   /** For past events page **/
@@ -678,8 +728,35 @@ h4 {
     margin-bottom: 20px;
   }
 
+  .iAmHere{
+    color: #A7140F !important;
+  }
+
+  .iAmNotHere{
+    color: black !important;
+  }
+
+  #info-wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .member-container h3{
+    font-size: 24px;
+  }
+
 }
 
+@media (min-width: 900px){
+  #info-wrapper{
+    flex-direction: row;
+  }
+
+  #last{
+    margin-top: 30px;
+  }
+}
 
 @media (min-width: 1000px) {
 
@@ -749,62 +826,39 @@ h4 {
   background-color: #000000;
 }
 
-#info-wrapper {
-  display: flex;
-  flex-direction: row;
-}
-
-.our-story {
-  width: 45%;
-  margin-right: auto;
-  margin-left: auto
-}
-
-.member-container {
-  justify-content: center;
-  display: flex;
-  flex-direction: row;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-.member-subcontainer {
-  display: flex;
-  flex-direction: row;
-
-}
-
-.member-image {
-  height: 350px;
-  width: 250px;
-  display: block
-}
-
-.card {
-  text-align: center;
-  background-color: rgb(221, 221, 221);
-  margin-right: 20px;
-  margin-left: 20px
-}
 
 @media (max-width: 500px) {
   .member-subcontainer {
     flex-direction: column;
   }
+}
 
+@media(min-width: 500px){
 
-  .card {
-    margin-top: 20px !important;
-    margin-bottom: 20px !important;
+  .member-subcontainer{
+    width: 80%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-bottom: 30px !important;
+  }
+
+  .card{
+    width: 50%;
+    margin-bottom: 0px;
+  }
+
+  .card img{
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .card figcaption{
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
-@media (max-width: 1000px) {
-  #info-wrapper {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
+@media (max-width: 900px) {
 
   #our-story {
     width: 100%;
@@ -819,12 +873,15 @@ h4 {
 
   .member-container {
     flex-direction: column;
-    justify-content: center;
   }
-
 }
 
-@media(max-width: 1200px) {
+@media(max-width: 2000px) {
+  .member-subcontainer{
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
   .card {
     margin: auto
   }
