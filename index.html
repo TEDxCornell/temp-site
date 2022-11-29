@@ -23,7 +23,13 @@
           <a href="index.html" class = "iAmHere">HOME</a>
         </li>
         <li>
-          <a href="past-events.html" class = "iAmNotHere">PAST EVENTS</a>
+          <button class = "iAmNotHere events-button">
+          <span class = "arrow-down">&#9660;</span><span class = "arrow-up hidden">&#9650;</span> PAST EVENTS</button>
+          <ul class = "dropdown hidden hidden_dropdown">
+            <li><a href = "past-events.html#overview" class = "subsection">Overview</a></li>
+            <li><a href = "past-events.html#uproot_heading" class = "subsection">2021: Uproot</a></li>
+            <li><a href = "past-events.html#unmuted_heading" class = "subsection">2022: UnMuted</a></li>
+          </ul>
         </li>
         <li>
           <a href="our-story.html" class = "iAmNotHere">OUR STORY</a>
@@ -39,20 +45,26 @@
 <div class = "main">
 
 <div class = "bg_div">
+
+<!-- Source: https://www.google.com/search?q=cornell+photo&tbm=isch&ved=2ahUKEwievMLJ6NP7AhXRrnIEHQJ3B1UQ2-cCegQIABAA&oq=cornell+photo&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeOgYIABAHEB46BggAEAgQHjoHCAAQgAQQGFDEHljEHmCTIGgAcAB4AIABX4gBnQGSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=JTSGY96VHNHdytMPgu6dqAU&bih=1899&biw=3993#imgrc=5tYdANFpdr1dAM -->
 <img class = "background" id = "cornell" src = "images/cornell.jpg" alt = ""/>
+
 <h1>
   <img src = "images/tedxlogo.png" alt = "" id = "logo"/>
 </h1>
+
+<a href = "https://www.google.com/search?q=cornell+photo&tbm=isch&ved=2ahUKEwievMLJ6NP7AhXRrnIEHQJ3B1UQ2-cCegQIABAA&oq=cornell+photo&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeOgYIABAHEB46BggAEAgQHjoHCAAQgAQQGFDEHljEHmCTIGgAcAB4AIABX4gBnQGSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=JTSGY96VHNHdytMPgu6dqAU&bih=1899&biw=3993#imgrc=5tYdANFpdr1dAM">source</a>
 </div>
 
 <div class="home">
-  <img src="images/tedxlogo.png" alt="Poster Image" id="homelogo">
   <div class="welcome">
   <h3>Welcome</h3>
   <p>
     Welcome to the Official Website for the TedX Club at Cornell University. Our club is dedicated to aceelerating the voices of a select few we believe can create the most impact positively for our society. Check us out for our next event to learn more. Alternatively, if you know an interested speaker or want to be part of our team, feel free to apply or request more information.
   </p>
+  <img src="images/homebackground.JPEG" alt="Background" id="homebackground">
   </div>
+  <button id="applybuttonhome"> Apply Now </button>
 
 </div>
 

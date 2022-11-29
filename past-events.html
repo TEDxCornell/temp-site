@@ -24,7 +24,13 @@
       <a href="index.html" class = "iAmNotHere">HOME</a>
     </li>
     <li>
-      <a href="past-events.html" class = "iAmHere">PAST EVENTS</a>
+      <button class = "iAmHere events-button">
+      <span class = "arrow-down">&#9660;</span><span class = "arrow-up hidden">&#9650;</span> PAST EVENTS</button>
+      <ul class = "dropdown hidden hidden_dropdown">
+        <li><a href = "#overview" class = "subsection">Overview</a></li>
+        <li><a href = "#uproot_heading" class = "subsection">2021: Uproot</a></li>
+        <li><a href = "#unmuted_heading" class = "subsection">2022: UnMuted</a></li>
+      </ul>
     </li>
     <li>
       <a href="our-story.html" class = "iAmNotHere">OUR STORY</a>
@@ -39,7 +45,7 @@
 
 <div class = "main">
 
-<div class = "bg_div">
+<div class = "bg_div" id = "overview">
 <img class = "background" src = "images/audience.jpg" alt = ""/>
 
 <h1>Past Events</h1>
@@ -82,7 +88,7 @@
 
 <div class = "break_line"></div>
 
-<h2>2021: Uproot</h2>
+<h2 id = "uproot_heading">2021: Uproot</h2>
 
 <div id = "uproot">
 
@@ -272,7 +278,7 @@
 
 <div class = "break_line"></div>
 
-<h2>2022: UnMuted</h2>
+<h2 id = "unmuted_heading">2022: UnMuted</h2>
 
 <div id = "unmute">
 
