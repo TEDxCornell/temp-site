@@ -4,6 +4,14 @@ html {
   color: rgba(85,85,85);
 }
 
+#applybuttonhome
+  {
+    top: 70px;
+    right: 5%;
+    font-size: 26px;
+    background-color: rgb(207, 204, 204);
+  }
+
 .header p{
   font-size: 1.6rem;
   font-weight: bold;
@@ -824,6 +832,10 @@ h4 {
   width: 400px;
   height: 100px;
   background-color: #000000;
+}
+
+#homebackground{
+  width: 500px;
 }
 
 
