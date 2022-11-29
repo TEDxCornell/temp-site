@@ -4,6 +4,14 @@ html {
   color: rgba(85,85,85);
 }
 
+#applybuttonhome
+  {
+    top: 70px;
+    right: 5%;
+    font-size: 26px;
+    background-color: rgb(207, 204, 204);
+  }
+
 .header p{
   font-size: 1.6rem;
   font-weight: bold;
@@ -191,6 +199,10 @@ h4 {
   display: block;
   border-bottom: 2.5px solid rgb(255, 43, 6);
   margin-bottom: 3.5%;
+}
+
+#homebackground{
+  width: 500px;
 }
 
 /** Past Events Page**/
