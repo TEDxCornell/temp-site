@@ -109,16 +109,8 @@ html {
   opacity: 0.1;
 }
 
-.hover-bg {
-  background-color: #d1312c !important;
-}
-
-.hover-bg-grey {
-  background-color: rgb(130, 130, 130) !important;
-}
-
-.hover-text-red {
-  color: #d1312c;
+#main-nav ul li a:hover{
+  color: #d1312c !important;
 }
 
 body {
@@ -299,6 +291,10 @@ h4 {
   background-color: rgb(207, 204, 204);
 }
 
+.arrow-left:hover, .arrow-right:hover{
+  background-color: rgb(130, 130, 130) !important;
+}
+
 .speaker-heading h4 {
   font-size: 18px;
   color: #d1312c;
@@ -353,6 +349,10 @@ h4 {
 
 #unmute-poster img{
   max-width: 400px;
+}
+
+#toSpeaker1:hover, #toSpeaker2:hover, #toSpeaker3:hover, #toSpeaker4:hover, #toSpeaker5:hover, #toSpeaker6:hover, #toSpeaker1-22:hover, #toSpeaker2-22:hover, #toSpeaker3-22:hover, #toSpeaker4-22:hover, #toSpeaker5-22:hover, #toSpeaker6-22:hover, #toSpeaker7-22:hover{
+  color: #d1312c;
 }
 
 /**Apply Page**/
@@ -536,6 +536,10 @@ h4 {
     text-decoration: none;
     font-size: 16px;
     font-weight: 200;
+  }
+
+  .arrow-left, .arrow-right{
+    font-size: 30px;
   }
 
   #slider21 p, #slider22{
