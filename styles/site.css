@@ -169,6 +169,7 @@ button {
   background-color: #ffffff00;
   text-align: left;
   border: none;
+  cursor: pointer;
 }
 
 h4 {
