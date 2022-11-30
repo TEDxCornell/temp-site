@@ -614,10 +614,59 @@ h4 {
   margin: auto !important
 }
 
+/* faq */
+
+.heading {
+  font-size: 300%;
+  color:black;
+  margin-top: 1em;
+
+}
+
+.headingborder {
+  color:#000000;
+  width:91.5%;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-top: 5px solid;
+}
+
+.pairs {
+  padding: 0.3em;
+  margin-left: 3.5%;
+  margin-right: 3.5%;
+  border:solid;
+  border-color: #000000;
+  border-radius: .5em;
+  margin-bottom: .4rem;
+  cursor: pointer;
+}
+
+.question {
+  font-size: 150%;
+  padding: 1rem;
+}
+
+
+.pairs:hover {
+  border-color: #d1312c;
+
+}
+
+.alltextfaq {
+  margin-bottom:2rem
+
+}
+
+.alltextfaq p {
+  font-size: larger;
+}
+
+
+/* faq */
+
 @media (min-width: 700px) {
-
-  /** general rules for wide screens **/
-
   .bg_div h1 {
     font-size: 4vw;
   }
@@ -962,6 +1011,21 @@ h4 {
 
   .iAmNotHere {
     color: black !important;
+  }
+
+  .our-story {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .member-container h3 {
+    font-size: 24px;
+  }
+
+  .break_story::after {
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
 }
