@@ -14,8 +14,6 @@ $("#EVENTquestion1").click(function () {
         $("#EVENTquestion1 > .arrow-up").addClass("hidden");
         $("#EVENTquestion1 > .arrow-down").removeClass("hidden");
     }
-
-
 });
 
 $("#EVENTquestion2").click(function () {

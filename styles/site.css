@@ -514,6 +514,14 @@ h4 {
   text-align: center;
 }
 
+.ta-left {
+  text-align: start;
+}
+
+.darken {
+  background-color: #A7140F;
+}
+
 #home-description {
   width: 50%
 }
