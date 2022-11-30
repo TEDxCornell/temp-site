@@ -166,3 +166,18 @@ $("#INVOLVEquestion4").click(function() {
     }
 
     });
+
+
+// Arrow
+
+$(".question").click(function() {
+    if ($(".question > .arrow-up").hasClass("hidden")) {
+        $(".question > .arrow-up").removeClass("hidden");
+        $(".question > .arrow-down").addClass("hidden");
+
+      } else {
+        $(".question > .arrow-up").addClass("hidden");
+        $(".question > .arrow-down").removeClass("hidden");
+
+      }
+  });
