@@ -636,6 +636,7 @@ h4 {
   border-color: #000000;
   border-radius: .5em;
   margin-bottom: .4rem;
+  cursor: pointer;
 }
 
 .question {
