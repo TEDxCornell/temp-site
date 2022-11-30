@@ -522,10 +522,6 @@ h4 {
   background-color: #A7140F;
 }
 
-#home-description {
-  width: 50%
-}
-
 .column-display {
   display: flex !important;
   flex-direction: column !important;
@@ -921,10 +917,6 @@ h4 {
 .home-container1{
   display: flex;
   flex-direction: column;
-}
-
-#home-description{
-  width: 100%;
 }
 
 .home-container1 figure{
