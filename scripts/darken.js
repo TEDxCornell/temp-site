@@ -21,3 +21,14 @@ $("#email-contact").hover(() => {
 }, () => {
   $("#email-contact").removeClass("darken")
 })
+
+
+$(window).resize(function () {
+  if ($(window).width() < 700) {
+    $(".home-container").addClass("column-display")
+    $(".apply-btn").addClass("half-width")
+  } else {
+    $(".home-container").removeClass("column-display")
+    $(".apply-btn").addClass("half-width")
+  }
+});
