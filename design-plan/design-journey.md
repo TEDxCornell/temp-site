@@ -708,19 +708,19 @@ OVerall, liked the addition of a dropmenu and a slider. They wanted the accordio
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-   TODO: tell us about the participant
+   Luis M. is a sophomore at Cornell University. He is a full time student and is a fun guy that is on the Cornell Breakfree dance team.
 
 2. Does the user belong to your audience of the site?
 
    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-   TODO: (Yes / No)
+   No they are not as they are not interested in joining TedX cornell. We made our website very informative about Ted as a whole as well so it can be interesting for non audiences as well. I can still associate the results as they applied to other clubs and use a similar process.
 
 ### Participant 1 -- Testing Notes (Final Submission)
 
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+For the first task of finding where to apply, on the home page, they easily scrolled down and found the apply but they scrolled past at first and then went back and found it. For the second task they quickly went to the FAQ page easily to find info and clicked the first drop down and found where people can organize events. For the last task, they went to the past events page and read about the different few events.
 
 ### Participant 2 (Final Submission)
 
@@ -728,19 +728,19 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-   TODO: tell us about the participant
+   Emily C is from San Diego Ca and is a student at Cornell university. They are fun and are studying Hotel Administration.
 
 2. Does the user belong to your audience of the site?
 
    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-   TODO: (Yes / No)
+   No, they are not part of my audience but they also apply to many clubs and most club websites have similar website formatting based on convention. I can have them do more general tasks such as learn stuff about the club which I did.
 
 ### Participant 2 -- Testing Notes (Final Submission)
 
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+For participant two, she found the apply boxes quickly. She was stumped on the second task to find the faq questions and did not know where to look. She kept scrolling down then changing tabs and ultimately found where to go after going to our story tab. Lastly, she found the past events easily.
 
 ### Participant 3 (Final Submission)
 
@@ -748,27 +748,45 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-   TODO: tell us about the participant
+   Junior L. is a junior from Chino Hills CA, and works out a lot.
 
 2. Does the user belong to your audience of the site?
 
    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-   TODO: (Yes / No)
+   No not part of my audience as they are not into TedXCornell but they also are part of Breakfree club and applied to other clubs before. I can make questions more general as usual.
 
 ### Participant 3 -- Testing Notes (Final Submission)
 
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+This user found all the tasks very quickly with no complications. They quickly found the tab box to apply. Then they found the faq page and looked around. Then they went to past events and looked around.
 
-TODO: add more participants if necessary
+### Participant 4 (Final Submission)
+
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+   Christine C is a junior studying stats is from California and is at cornell university and is a vibrant young mind.
+
+2. Does the user belong to your audience of the site?
+
+   > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+   No, They are not part of my audience but they apply to clubs regularly so it is correlated. I would make question more general about learning about clubs and applying in general.
+
+### Participant 4 -- Testing Notes (Final Submission)
+
+> When conducting user testing, you should take notes during the test.
+
+This user quickly scrolled down home screen and found the boxes to apply. They then for the second task went to FAQ page and clicked the first drop down to complete this task. They lastly found the past events tab and looked around.
 
 ## Website Revision Based on User Testing (Final Submission)
 
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+From the user testing, it is clear one of the main goals to learn about the club and where to apply is easy to find which is a success. One change to make may be to make the FAQ more consise so users don't have to scroll through every question as the order is hard to know. Maybe put the most Frequently asked questions or have users figure out where they need guidance then questions accordingly. Overall, the testing was successful and little change is needed.
 
 ## Grading (Final Submission)
 
