@@ -526,6 +526,16 @@ h4 {
   width: 50%
 }
 
+.column-display {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.half-width {
+  width: 50% !important;
+  margin: auto !important
+}
+
 
 
 @media (min-width: 700px) {
