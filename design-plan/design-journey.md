@@ -794,11 +794,13 @@ From the user testing, it is clear one of the main goals to learn about the club
 
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+TedxCornell
 
 ### Reference Resources (Final Submission)
 
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+https://devcom.w3schools.com/jquery/jquery_hide_show.asp
+
+https://www.w3schools.com/howto/howto_css_image_text.asp
