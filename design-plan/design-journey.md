@@ -696,13 +696,11 @@ OVerall, liked the addition of a dropmenu and a slider. They wanted the accordio
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Find where to apply to the Club TedX Cornell.
 
-2. TODO: task 2
+2. Find sufficient information about TedX cornell Such as who can help organize events.
 
-3. TODO: task 3
-
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+3. Learn about specific previous TedX Cornell Events.
 
 ### Participant 1 (Final Submission)
 
