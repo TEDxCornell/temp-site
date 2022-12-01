@@ -589,6 +589,9 @@ Every page has a footer. When the audience finish reading a page, they don't hav
 Layout:
 ![Home page - new](home-new.jpg)
 
+The new TedXCornell Home page includes big chunks of easily seen content. This home page sets the theme for the entire website. We designed with big boxes and application links which is the purpose of this website. The design is mean to follow audience goals so the main most important goals and content are simply on the first page. The first page has wide big boxes that look somewhat similar on mobile or regular pages and sets a consistent beautiful theme.
+
+
 Interactivity:
 
 Hamburger menu and dropdown menu for narrow screens -- Home as example:
