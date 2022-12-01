@@ -106,9 +106,9 @@ NOTE: after meeting with the client, we discussed and wrote the rationale togeth
 - The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. Specifically, information about the club's history, members, events, and how to get involved will be provided. The website will also have an entry for the audience to apply as a speaker or a member.
 
 - https://www.tedxcornell.com/team <- Current website link for TEDxCornell
-![The existing site](existing-site-1.png)
-![The existing site](existing-site-2.png)
-![The existing site](existing-site-3.png)
+  ![The existing site](existing-site-1.png)
+  ![The existing site](existing-site-2.png)
+  ![The existing site](existing-site-3.png)
 
 - We are planning to upgrade the presentation of the current website and make it more responsive to screen size changes. Some sessions of the existing site look weird on mobile such as the footer and the apply page.
 - We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer. There are currently five pages of the site. We will reorganize the content into four pages so that the organization is improved and the project requirement is satisfied.
@@ -455,7 +455,6 @@ UPDATES: After milestone 2, we came together to reorganize our content and come 
 
 The difference between this one and iteration 2 is that the third page changed from Apply to Our Story. We realized that in iteration 2 we put almost everything about the team on the Home page, but Home was not a good place for content like members' photos. So we plan to make a new page for the team and its history. We will put the content initially in the Apply page on the Home page and other pages. Some of the content initially on the home page will be put on Our Story. The home page becomes more concise so that the audience don't get impatient reading through it.
 
-
 ### Final Content Organization (Milestone 2)
 
 > Which iteration of card sorting will you use for your website?
@@ -464,9 +463,12 @@ We are planning on using card iteration 3.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
+<<<<<<< HEAD
 Our audience are interested in getting involved in the team, so we put the application information in the Home page so that they can see it immediately. The Past Events page is very easy to follow as it puts together photos and descriptions of events that the club held. Information about the "activity" is all in this page. Our Story is the place where potential applicants get an impression of how the team develops and works. Information about the "people" is all in this page. Other information is put in FAQ. After the visitor looks at specific sessions of the site and feels like they still have questions unanswered, they can go to FAQ.
 
 
+=======
+>>>>>>> f320eb3b011a71492f6750c0ad5acb1eca96fb1e
 ### Navigation (Milestone 2)
 
 > Please list the pages you will include in your website's navigation.
@@ -538,7 +540,7 @@ For my second design I still wanted to stay with the clean and professional look
 > However, you don't need to provide layout/CSS annotations.
 > Please, provide an explanation for each sketch.
 
-** IMPORTANT! UPDATES: The feedback to our milestone 2 mentioned that we need better sketches with more details. For each page we recreated the sketch and rewrote explanations. We kept the old sketches here but please jump to the end of this session titled "NEW SKETCHES". Old and new ones might look different because we also reorganized content as mentioned above.
+\*\* IMPORTANT! UPDATES: The feedback to our milestone 2 mentioned that we need better sketches with more details. For each page we recreated the sketch and rewrote explanations. We kept the old sketches here but please jump to the end of this session titled "NEW SKETCHES". Old and new ones might look different because we also reorganized content as mentioned above.
 
 **Narrow Design:**
 
@@ -582,7 +584,7 @@ This shows how buttons change color when they are hovered over.
 
 **NEW SKECTHES:**
 
-** Highlighted green area indicate clickable buttons.
+\*\* Highlighted green area indicate clickable buttons.
 
 - For all pages
 
@@ -596,6 +598,9 @@ Every page has a footer. When the audience finish reading a page, they don't hav
 
 Layout:
 ![Home page - new](home-new.jpg)
+
+The new TedXCornell Home page includes big chunks of easily seen content. This home page sets the theme for the entire website. We designed with big boxes and application links which is the purpose of this website. The design is mean to follow audience goals so the main most important goals and content are simply on the first page. The first page has wide big boxes that look somewhat similar on mobile or regular pages and sets a consistent beautiful theme.
+
 
 Interactivity:
 
@@ -632,6 +637,7 @@ The arrow buttons hint the audience about the interactive feature and enable the
 - Our Story
 
 ![Our Story - new](our-story-new.jpg)
+Our Story design incorporates a hero image, and two informational row flexboxes side by side to juxtapose the history of TEDxCornell vs. TED. Beneath these informational paragraphs, we display current members in row flexboxes, where every flexbox incorporates four members, along with headers that describe the team that the corresponding members are a part of. This creates a an organized framework that allows our audience to easily follow the team organization. Furthermore, our story page switches from row flexboxes to column flexboxes from wider to narrower screens to make more effective use of space, and avoid "squeezing" of team member images.
 
 - FAQ
 
@@ -640,8 +646,6 @@ Layout:
 
 Interactivity:
 ![FAQ - accordion](faq-accordion.jpg)
-
-
 
 ### Design Rationale (Milestone 2)
 
