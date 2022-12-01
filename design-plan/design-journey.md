@@ -464,7 +464,7 @@ We are planning on using card iteration 3.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-
+Our audience are interested in getting involved in the team, so we put the application information in the Home page so that they can see it immediately. The Past Events page is very easy to follow as it puts together photos and descriptions of events that the club held. Information about the "activity" is all in this page. Our Story is the place where potential applicants get an impression of how the team develops and works. Information about the "people" is all in this page. Other information is put in FAQ. After the visitor looks at specific sessions of the site and feels like they still have questions unanswered, they can go to FAQ.
 
 
 ### Navigation (Milestone 2)
@@ -501,9 +501,13 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger menu on narrower screens: A hamburger menu save space on narrow screens. It makes the website more clean and organized, which echoes back to our professional theme. It also helps the audience find the information they want as quickly as possible.
+
 - Dropdown menus in the main navbar (wide screens) and the hamburger menu (narrow screens). The Past Events page is long, so it will be helpful to let the audience jump to a specific subsection of the page from the navbar.
+
 - Button darkening on mouse hover: When a button is hovered over, the color of the button will darken. This is to provide feedback to the audience's actions and to tell them clicking on that element will trigger interactivity.
+
 - Accordion in the FAQ page: The audience always go to the FAQ page with a question already in mind. The question title is the most important identifier of whether they can find what they want in this page. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer. This interactivity blocks other content in the page that might be unnecessary for the audience.
+
 - A slideshow which automatically advances for the lineup of speakers in the Past Event page. Currently, the photos of speakers and their topics take up a lot of spaces. These can be made a slideshow, where each slide introduces a speaker. The audience can change the slides by themselves, and the slides also alternate automatically after several seconds.
 
 ### Layout Exploration (Milestone 2)
@@ -645,17 +649,27 @@ Interactivity:
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-I decided to choose design 2 since I thought it fit in more with the theme of formal and professional. On the desktop interface, the navigation would be to the very left while the header would be to the very right. This employs a very famiiar design making it quick and easy for the users to get comfortable with the website. I also thought that having sharp edges what give a more clean look to my website. However, since the website is directed at potential speakers and students of Cornell, I thought it would be better to have a smoother font like sans-serif. This would make it more inviting and approachable for the user. Additionally, for the mobile screen, there is a hamburger menu at the top left. This consistant with how the majority of websites are built. The colros I chose (gray, black, red, and white), all create a professional look. The white background is a neutral background, the gray will be the secondary color, the black will be the font color, and the red will be the accent color. This content organization meets the goals of the users by making it simple, familiar, and easy to access. Users will know exactly where everything is since the design is consistant with the majority of websites.
+Our audience are interested in getting involved in the team, so we put the application information in the Home page so that they can see it immediately. The Past Events page is very easy to follow as it puts together photos and descriptions of events that the club held. Information about the "activity" is all in this page. Our Story is the place where potential applicants get an impression of how the team develops and works. Information about the "people" is all in this page. Other information is put in FAQ. After the visitor looks at specific sessions of the site and feels like they still have questions unanswered, they can go to FAQ. The main navbar enables the audience to locate the information they want and get there quickely.
+
+Our main visual theme is professional. Our audience are potential members and speakers. So if the site looks casual, they would think that the club is not reliable. Being professional and formal is really important.
+
+Most of my audience should be familiar with the layout pattern: text and images in columns on the mobile page and in rows on the laptop page. The content spans as wide as possible on narrow screens while appropriate white spacing is applied to wider screens to enhance readability and usability. Slight misalignments are avoided so that the website looks more professional and visually pleasing.
 
 ## Interactivity Rationale (Milestone 2)
 
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-- A hamburger menu on narrower screens will increase real estate for more essential content. It also lets the visitors know the structure of the website and locate their needed content efficiently.
-- Button darkening when hovered over provides feedback efficiently to the audience's actions. This feature makes the website more usable and helps the audience accomplish their goals in general.
-- The dropdown pattern in the FAQ page helps block other content that might be unnecessary for the audience so that they can quickly find what they want.
-- The slideshow of speakers of past events saves space. The audience don't have to scroll down and down and down to see all the speakers but just click on the next or previous buttons.
+UPDATES: Elaborated on the purpose of our interactivity.
+
+- A hamburger menu on narrower screens will increase real estate for more essential content. It also makes the site clean and neat. Our audience come to the website to learn about the club, and a cleaner layout conveys the message to the audience that the club is professional and formal.
+
+- The dropdown menu for Past Events page lets the visitors know the structure of this long page and locate their needed content efficiently. For example, one visitor who are interested in becoming a speaker in the 2023 conference clicks on the button and sees the dropdown menu. If they wants to look at the most recent event, they can click on "2022 Talks" and will be taken directly to the session without scrolling down and down.
+
+- The slideshow of speakers in Past Events saves space. The audience don't have to scroll down and down and down to see all the speakers but just click on the next or previous buttons. Our audience are not merely those who want to become a speaker. Others who want to join the team might only want to look at the general form of TEDxCornell's events without looking into the speakers. In this case they can easily skip the slideshow and continue to another event.
+
+- The accordion pattern in the FAQ page helps block other content that might be unnecessary for the audience so that they can quickly find information they want. The audience always go to the FAQ page with a question already in mind. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer.
+
 
 ## Interactivity Plan (Milestone 2)
 
@@ -663,105 +677,93 @@ I decided to choose design 2 since I thought it fit in more with the theme of fo
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
+UPDATES: We sketched them out in more details.
+
 1. Hamburger menu
 
-CSS classes:
-
-- hidden class
-
-HTML elements:
-
-- the list inside the navbar
-
-Events:
-
-- click listeners
-- window resize
+![Plan - hamburger menu](hamburger-menu-plan.jpg)
 
 ```
-if window size grows smaller than 600px:
-   hide the navigation bar and show the hamburger menu;
+If window size grows larger than 700px:
+   add .hidden to #burger
 
-if the window size is smaller than 600px and the hamburger menu is clicked:
-   show a navigation bar if the navigation bar is hidden; otherwise, hide the navigation bar
+If #burger is clicked:
+   add .hidden to #burger
+   remove .hidden from #cross
+   add .transparent to .main
+   remove .hidden from #main-navbar
 
-if window size is ever greater than 600px we show the default navigation bar
+If #cross is clicked:
+   remove .hidden from #burger
+   add .hidden to #cross
+   remove .transparent from .main
+   add .hidden to #main-navbar
 ```
 
-2. Buttons darken when hovered over
+2. Slideshow
 
-CSS classes:
+![Plan - slideshow](slideshow-plan.jpg)
 
-- hover-background class
-
-HTML elements:
-
-- buttons
-
-Events:
-
-- hover listeners
 
 ```
-if a mouse is hovering over a button element
-   add the darkening background class to the button
+If (#speaker1 > .arrow-right) is clicked OR after #speaker1 has been displayed for 1min:
+    remove .hidden from #speaker2;
+    add .hidden to #speaker1;
+If (#speaker1 > .arrow-left) is clicked:
+    remove .hidden from #speaker6
+    add .hidden to #speaker1
 
-if a mouse is no longer hovering over a button element
-   remove the darkening background class to the button
+The same applies to slides 2-6.
+
+......
+
+When #toSpeaker1 is clicked:
+    remove .hidden from #speaker1
+    add .hidden to the current slide
+
+When #toSpeaker2 is clicked:
+    remove .hidden from #speaker2
+    add .hidden to the current slide
+
+......
 ```
 
-3. Slideshow of speakers' information
+3. Dropdown menu
 
-CSS classes:
-
-- hidden class
-- slides class
-
-HTML elements:
-
-- units of speaker information (including the name, the topic, the description, and the photo); each unit in a div element and in a class of "slides"
-- buttons: "previous" and "next"
-- above the slideshow there is a list of speakers; each item in the list is also a button
-
-Events:
-
-- click an item in the list
-- click the "previous" or "next" button
-- timer (10 seconds)
+![Plan - dropdown menu](dropdown-menu-plan.jpg)
 
 ```
-If the current slide has been displayed for 10 seconds:
-   show next slide.
+When #dropdown-button is clicked:
+    remove .hidden from #dropdown
+    remove .hidden from (#dropdown > .arrow-up)
+    add .hidden to (#dropdown > .arrow-down)
 
-If the previous button is clicked:
-   show the previous slide of the current slide.
-
-If the next button is clicked:
-   show the next slide of the current slide.
-
-If an item in the button list is clicked:
-   jump to the slide indicated by the item.
+When #dropdown-button is clicked AGAIN:
+    add .hidden to #dropdown
+    add .hidden to (#dropdown > .arrow-up)
+    remove .hidden from (#dropdown > .arrow-down)
 ```
 
 4. Accordion in FAQ
 
-CSS classes:
-
-- hidden class
-
-HTML elements:
-
-- answers which are initially hidden
-- questions as buttons
-
-Events:
-
-- click on a question
+![Plan - accordion](accodion-plan.jpg)
 
 ```
-If a question is clicked:
-   show the associated answer if it is currently hidden.
-   hide the associated answer if it is currently displayed.
+When (.firstQ > .Q) is clicked:
+    remove .hidden from (.firstQ > .A)
+    remove .hidden from (.firstQ > .Q > .arrow-up)
+    add .hidden to (.firstQ > .Q > .arrow-down)
+When (.secondQ > .Q) is clicked:
+    remove .hidden from (.secondQ > .A)
+    remove .hidden from (.secondQ > .Q > .arrow-up)
+    add .hidden to (.secondQ > .Q > .arrow-down)
+......
+
+When (.firstQ > .Q) is clicked AGAIN:
+    add .hidden to (.firstQ > .A)
+    add .hidden to (.firstQ > .Q > .arrow-up)
+    remove .hidden from (.firstQ > .Q > .arrow-down)
+......
 ```
 
 ## Client Feedback & Minutes (Milestone 2)
@@ -769,7 +771,7 @@ If a question is clicked:
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-OVerall, liked the addition of a dropmenu and a slider. They wanted the accordion to be bigger on the screen for the FAQ. They liked how we kept the original colors of TEDxCornell. They also added how they liked how we stuck to the theme of professional and formal.
+OVerall, liked the addition of a dropdown menu and a slider. They wanted the accordion to be bigger on the screen for the FAQ. They liked how we kept the original colors of TEDxCornell. They also added how they liked how we stuck to the theme of professional and formal.
 
 15 minutes
 
@@ -855,25 +857,59 @@ This user found all the tasks very quickly with no complications. They quickly f
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-   Christine C is a junior studying stats is from California and is at cornell university and is a vibrant young mind.
+   Lavinia is a junior at Cornell, studying Info Science.
 
 2. Does the user belong to your audience of the site?
 
    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-   No, They are not part of my audience but they apply to clubs regularly so it is correlated. I would make question more general about learning about clubs and applying in general.
+   No. She does not want to join the TEDx team or be a speaker. But she has experiences applying to other clubs through their websites, so she should be familar with the tasks provided by us. We should be safe to generalize the test result to our audience.
 
 ### Participant 4 -- Testing Notes (Final Submission)
 
 > When conducting user testing, you should take notes during the test.
 
-This user quickly scrolled down home screen and found the boxes to apply. They then for the second task went to FAQ page and clicked the first drop down to complete this task. They lastly found the past events tab and looked around.
+1.
+- quickly looked at the main navbar
+- "ok, no Apply page"
+- scrolled down in Home
+- saw the entry to apply as a member
+
+2.
+- looked to the navbar
+- went to Our Story
+- "here is much info about the club"
+
+3.
+- looked to the navbar
+- went to Past Events -- 2022 Talks
+- read through the session
+
+### Participant 5 (Final Submission)
+
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+   Junior L. is a junior from Chino Hills CA, and works out a lot.
+
+2. Does the user belong to your audience of the site?
+
+   > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+   No not part of my audience as they are not into TedXCornell but they also are part of Breakfree club and applied to other clubs before. I can make questions more general as usual.
+
+### Participant 5 -- Testing Notes (Final Submission)
+
+> When conducting user testing, you should take notes during the test.
+
+This user found all the tasks very quickly with no complications. They quickly found the tab box to apply. Then they found the faq page and looked around. Then they went to past events and looked around.
 
 ## Website Revision Based on User Testing (Final Submission)
 
 > What changes did you make to your design based on user testing?
 
-From the user testing, it is clear one of the main goals to learn about the club and where to apply is easy to find which is a success. One change to make may be to make the FAQ more consise so users don't have to scroll through every question as the order is hard to know. Maybe put the most Frequently asked questions or have users figure out where they need guidance then questions accordingly. Overall, the testing was successful and little change is needed.
+From the user testing, it is clear one of the main goals to learn about the club and where to apply is easy to find which is a success. One change we made was to make the FAQ more consise so users did not have to scroll through every question. We put the most Frequently asked questions or have users figure out where they need guidance then questions accordingly. Overall, the testing was successful and little change is needed.
 
 ## Grading (Final Submission)
 
