@@ -463,12 +463,9 @@ We are planning on using card iteration 3.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-<<<<<<< HEAD
 Our audience are interested in getting involved in the team, so we put the application information in the Home page so that they can see it immediately. The Past Events page is very easy to follow as it puts together photos and descriptions of events that the club held. Information about the "activity" is all in this page. Our Story is the place where potential applicants get an impression of how the team develops and works. Information about the "people" is all in this page. Other information is put in FAQ. After the visitor looks at specific sessions of the site and feels like they still have questions unanswered, they can go to FAQ.
 
 
-=======
->>>>>>> f320eb3b011a71492f6750c0ad5acb1eca96fb1e
 ### Navigation (Milestone 2)
 
 > Please list the pages you will include in your website's navigation.
@@ -643,6 +640,8 @@ Our Story design incorporates a hero image, and two informational row flexboxes 
 
 Layout:
 ![FAQ - new](faq-new.jpg)
+
+This is relatively the same on both narrow and wide views, except for the right and left margin on wider screens. Questions are divided into subsessions with noticeable headings.
 
 Interactivity:
 ![FAQ - accordion](faq-accordion.jpg)
