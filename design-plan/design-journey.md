@@ -72,7 +72,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 8. What are your favorite competitors or similar organizations' websites? Why?
 
-   - The official website TEDx: neat; efficient representation of information, look professional
+   - The official website TED: neat; efficient representation of information, look professional
    - Cornell Blockchain: background black and white, look professional
 
 9. Besides the content of the existing site, what else do you want to add? Will you provide it to us?
@@ -90,8 +90,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
   - Seemed to have wanted a more professional and formal website
   - Wanted to attract people who want to speak for TEDxCornell
   - Formal font
-  - Contrasting images
-  - Emphasis on wanting a forms page
+  - Emphasis on wanting a forms page (unfortunately we cannot have forms for this project and we talked to the client about this)
   - Focus on design and presentation
 
 ### Client Website (Milestone 1)
@@ -103,12 +102,16 @@ NOTE: after meeting with the client, we discussed and wrote the rationale togeth
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-- Our client wants a more formal and professional look to his website. For this project I think it would be best to have a plain white background, with contrasting images, and with a more formal font like sans serif. The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. We are planning to add more content to the existing website and potentially upgrade the presentation of it. We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer.
-- https://www.tedxcornell.com/team <- Current website link for TEDxCornell
+- Our client wants a new website for the TEDxCornell club with a more formal and professional look. Formal fonts like sans serif and plain white background are in our design choices.
+- The purpose of this website is to attract potential speakers for TEDxCornell and for viewers to learn more about what TEDxCornell is all about. Specifically, information about the club's history, members, events, and how to get involved will be provided. The website will also have an entry for the audience to apply as a speaker or a member.
 
+- https://www.tedxcornell.com/team <- Current website link for TEDxCornell
 ![The existing site](existing-site-1.png)
 ![The existing site](existing-site-2.png)
 ![The existing site](existing-site-3.png)
+
+- We are planning to upgrade the presentation of the current website and make it more responsive to screen size changes. Some sessions of the existing site look weird on mobile such as the footer and the apply page.
+- We also want to add more images and change the organization of the current pages to make it more readable and appealing to the viewer. There are currently five pages of the site. We will reorganize the content into four pages so that the organization is improved and the project requirement is satisfied.
 
 ### Client Goals (Milestone 1)
 
@@ -117,8 +120,9 @@ NOTE: after meeting with the client, we discussed and wrote the rationale togeth
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
 - To build up a general impression on the audience about TEDxCornell (professional)
-- To learn more about TEDxCornell (the organization and events)
-- To attract speakers
+- To provide information about the club to the audience (the organization and events)
+- To attract speakers and members
+- To enable potential speakers or members to apply through the site
 
 ### Client Website Scope (Milestone 1)
 
@@ -192,7 +196,7 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-Monica Lee is a second-year student at Cornell; she is a transfer from Boston College. She is part of TEDxCornell.
+Monica Lee is a second-year student at Cornell; she is a transfer from Boston College.
 
 1. Please tell me a bit about yourself.
 
@@ -228,7 +232,7 @@ Monica Lee is a second-year student at Cornell; she is a transfer from Boston Co
 - What was your impression of the website?
 - Did you find the website helpful? Why or why not?
 
-  - yes, a speaker curation member on TEDxCornell
+  - yes; visiting TEDxCornell's website
   - thinks the TEDxCornell website could be designed better
   - helpful, but could be better
 
@@ -328,27 +332,30 @@ The participant is a sophomore at Cornell. She majors in Statistical Science.
 Goal 1: Find sufficient information about the club TEDxCornell in general (their story, people, and events)
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - We will design our website with sufficient content that is easy to see on the main pages of ther websites. We will include all relevant information about logistics of the club, general information, and specific frequently asked questions.
+  - We will design our website with sufficient content that is easy to see on the main pages of ther websites. We will provide all relevant information about logistics of the club, general information, and specific frequently asked questions.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - People come to this website to learn more about what the club is in general and decide if it is a good fit for them, thus they would likely want lots of information about the club.
+  - People come to this website to learn more about what the club is in general and decide if it is a good fit for them, thus we should provide as much necessary information as we can think of.
 
-Goal 2: Easily access information about club via website.
+Goal 2: Easily access information about the club via website.
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - Information should easy to find. We will put all main content in the middle of pages with accurate labels and design choices that group similar information together. We will also make the navbar easy to follow.
+  - Information should be easy to find. We will put all main content in the middle of pages with accurate labels and design choices that group similar information together. We will also make the navbar easy to follow.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - People come to this website to look for information about the club or speakers but it wouldn't be good for users if all this information is hard to find. Therefore it is our goal to make the information easily accessible and intuitive.
 
-Goal 3: Be able to Apply to the Club or become a speaker
+Goal 3: Be able to apply to the club or become a speaker
 
-To do this, we will have easy to see buttons for information about applying to the club or speaker. These will be on main pages and are a primary goal for users because they come to this website to learn about the club and apply to the club.
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - To do this, we will put the information about applying as a member or speaker on the Home page. We will also intentionally repeat the apply information on other pages. For example, when the audience are looking at the page about past events, they might be more motivated to apply to be a speaker and can easily find the apply entry close to their current location.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Accoding to the interviews, many people visit a club's website to know how to get involved, so we should make the apply info easy to find for our audience. Showing apply info in different pages when necessary also motivates the audience to apply when they look through the site.
 
 ### Audience (Milestone 2)
 
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-My site audience is everyone (normally Cornell Students) interested in applying to TedX Cornell Club via our website. This is one group of all people affiliated with cornell looking to apply to the club or be a speaker.
+Our site's audience is anyone (normally Cornell Students or faculty) interested in participating in the TEDxCornell team or its events. This is one group of all people affiliated with Cornell, looking to apply to the club or be a speaker. This audience is a cohesive group because all of them come to the website to figure out whether the club is a good place to let their abilities shown or let their voices heard.
 
 ## Website Design Exploration (Milestone 2)
 
@@ -381,21 +388,21 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-I think Cornell Blockchain does a great job at segmenting their information, and implementing a clean, professional design (white background, strong contrasts, sharp edges, and sans-serif font). Some interactivity features I noticed were, a hamburger navigation menu when the screen collapses into a narrower screen and darkening icons on clickable elements.
+Cornell Blockchain does a great job at segmenting their information, and implementing a clean, professional design (white background, strong contrasts, sharp edges, and sans-serif font). Some interactivity features I noticed were, a hamburger navigation menu when the screen collapses into a narrower screen and darkening icons on clickable elements.
 
 ### Example Website 2 Review (Milestone 2)
 
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-I think Cornell Hedgefund also does a great job at separating their information and ultilizing a professional design. Furthermore, unlike Cornell Blockchain, their website theme is consistent across multiple webpages. I especially like their use of hero images, and professional color scheme (white, navy blue, and gray). Their website also makes excellent use of a hamburger dropdown menu on smaller screens, and icon darkening when hovering over clickable elements.
+Cornell Hedgefund also does a great job at separating their information and ultilizing a professional design. Furthermore, unlike Cornell Blockchain, their website theme is consistent across multiple webpages. I especially like their use of hero images, and professional color scheme (white, navy blue, and gray). Their website also makes excellent use of a hamburger dropdown menu on smaller screens, and icon darkening when hovering over clickable elements.
 
 ### Example Website 3 Review (Milestone 2)
 
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-I think Cornell Consulting does a great job at implementing a sleek, professional theme, just like the previous two websites: white background, sans-serif font, sharp edges, etc. They also implement a hamburger burger and icon darkening. There are dropdown menus nested inside the hamburger menu. Some page names have a "+" beside them, indicating that a dropdown menu will appear if one of the sections is clicked.
+Cornell Consulting does a great job at implementing a sleek, professional theme, just like the previous two websites: white background, sans-serif font, sharp edges, etc. They also implement a hamburger menu and icon darkening. There are dropdown menus nested inside the hamburger menu. Some page names have a "+" beside them, indicating that a dropdown menu will appear if one of the sections is clicked. This pattern makes the navbar easy to follow.
 
 ## Content Planning (Milestone 2)
 
@@ -406,19 +413,28 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- Past speaking events with photos
+- Past speaking events with photos (2021 salon series, 2021 Talks, 2022 Talks)
 - Team member photos and brief descriptions
 - Application information (including applying to be a speaker, nominating a speaker, and applying to be a club member)
-- History of TedxCornell
-- Mission Statement
-- Purpose and introduction to the club
+- History and story of TedxCornell
+- Story of TED
+- Mission of the club
+- Frequently asked questions (more about events, the club, and involvement)
+- Social media and email
 - Entry to join the mailing list
+
+UPDATES:
+
+- Delete "entry to join the mailing list" because this is out of the project scope.
+- Add "social media and email" for the audience to connect with the club or get updates about future events and recruitment.
 
 ### Content Justification (Milestone 2)
 
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to. The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. Introducing group members on the website makes the club look active and mature, also implying what kind of students would fit into the club for visitors who want to apply.
+These content decisions satisfy our audience's goals by giving our audience the information they need to learn more about TEDxCornell and the information they need to apply if they want to.
+
+The past speaker events are essential for giving users some idea about what type of events TEDxCornell hosts. They also motivate some audience to apply as a speaker. In addition, introducing group members and the club's story on the website makes the club look active and mature, also implying what kind of students would fit into the club for visitors who want to apply. Social media and email contacts enable the audience to get updates about future events and recruitment or ask questions. TED's story is also necessary as our client emphasizes that TED's sponsorship makes TEDxCornell unique and more professional.
 
 ## Information Architecture (Milestone 2)
 
@@ -434,17 +450,22 @@ In my first card sort, I had four sections focusing on 1) learning about TedXCor
 ![CartSort 2](cardsort2.jpg)
 My second cardsort builds off my original cardsort with different iterations. Instead I put the mailing list in the first section rather than having it in the social section. I thought that people may want to join the mailing list after reading the about me section. Instead of putting information on how to get involved in the last section, I put it in the 3rd section which all seemed to focus on connecting with TedxCornell. Lastly, I added a post it on how to get information on the speakers and the expereience.
 
+UPDATES: After milestone 2, we came together to reorganize our content and come up with a better card sorting before we updated our code.
+![CartSort 3](cardsort-final.jpeg)
+
+The difference between this one and iteration 2 is that the third page changed from Apply to Our Story. We realized that in iteration 2 we put almost everything about the team on the Home page, but Home was not a good place for content like members' photos. So we plan to make a new page for the team and its history. We will put the content initially in the Apply page on the Home page and other pages. Some of the content initially on the home page will be put on Our Story. The home page becomes more concise so that the audience don't get impatient reading through it.
+
+
 ### Final Content Organization (Milestone 2)
 
 > Which iteration of card sorting will you use for your website?
 
-We are planning on using card iteration 2.
+We are planning on using card iteration 3.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-Card iteration 2 makes more sense in terms of familiarity and convenience. Switching the mailing list to the first section would make it easier for our users to quickly subscribe to the mailing list without having to search for it. It also makes more sense chronologically since the majority of websites have the mailing list on the first pafe where it is easily seen. Additionally I think it makes more sense to have an "how to get more involved" statement in the section where they are encouraging users to join TedxCornell. Lastly, I thought that all information that fell outside the realm of the beginning sections should belong on an FAQ or information page. This includes information that speakers, cornellians, or outsiders may want to know.
 
-UPDATES: Later we decided to replace the "Apply" page with "Our Story." We plan to put information about application on the home page and other sections. For example, we will have an entry on the Past Events page in case the audience want to apply to be a speaker after reading about past events. It is unnecessary to make a page only for application. Some of the content initially on the home page will be put on Our Story. The home page becomes more concise so that the audience don't get impatient reading through it.
+
 
 ### Navigation (Milestone 2)
 
@@ -457,7 +478,7 @@ UPDATES: Later we decided to replace the "Apply" page with "Our Story." We plan 
 
 > Explain why the names of these pages make sense for your site's audience.
 
-These are appropriate names for our sites, because our home page will have general information, past events will house past event content, our story page will be about the history of the club and members, and frequently asked questions will contain common questions that our target audience might have.
+These are appropriate names for our sites, because our home page will have general information about the club and getting involved, past events will house past event content, our story page will be about the history of the club and members, and frequently asked questions will contain common questions that our target audience might have.
 
 ## Visual Theme (Milestone 2)
 
@@ -480,8 +501,9 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger menu on narrower screens: A hamburger menu save space on narrow screens. It makes the website more clean and organized, which echoes back to our professional theme. It also helps the audience find the information they want as quickly as possible.
+- Dropdown menus in the main navbar (wide screens) and the hamburger menu (narrow screens). The Past Events page is long, so it will be helpful to let the audience jump to a specific subsection of the page from the navbar.
 - Button darkening on mouse hover: When a button is hovered over, the color of the button will darken. This is to provide feedback to the audience's actions and to tell them clicking on that element will trigger interactivity.
-- Dropdown answer in the FAQ page: The audience always go to the FAQ page with a question already in mind. The question title is the most important identifier of whether they can find what they want in this page. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer. This interactivity blocks other content in the page that might be unnecessary for the audience.
+- Accordion in the FAQ page: The audience always go to the FAQ page with a question already in mind. The question title is the most important identifier of whether they can find what they want in this page. Hiding the answers initially lets users focus on the questions and browse them through. After that, they can simply leave (if nothing found) or click the question to see the answer. This interactivity blocks other content in the page that might be unnecessary for the audience.
 - A slideshow which automatically advances for the lineup of speakers in the Past Event page. Currently, the photos of speakers and their topics take up a lot of spaces. These can be made a slideshow, where each slide introduces a speaker. The audience can change the slides by themselves, and the slides also alternate automatically after several seconds.
 
 ### Layout Exploration (Milestone 2)
@@ -511,6 +533,8 @@ For my second design I still wanted to stay with the clean and professional look
 > The sketches must include enough detail that another 1300 student could implement them.
 > However, you don't need to provide layout/CSS annotations.
 > Please, provide an explanation for each sketch.
+
+** IMPORTANT! UPDATES: The feedback to our milestone 2 mentioned that we need better sketches with more details. For each page we recreated the sketch and rewrote explanations. We kept the old sketches here but please jump to the end of this session titled "NEW SKETCHES". Old and new ones might look different because we also reorganized content as mentioned above.
 
 **Narrow Design:**
 
@@ -551,6 +575,69 @@ Our story page on narrower screens changes from row flexboxes to column flexboxe
 
 ![Button darkening example](button-darkened.jpg)
 This shows how buttons change color when they are hovered over.
+
+**NEW SKECTHES:**
+
+** Highlighted green area indicate clickable buttons.
+
+- For all pages
+
+The main navbar is at the top of each page, following the convention. For narrow screens, a hamburger menu is used while for wider screens, we have enough space to display the whole list.
+
+There is a background image for the main heading (h1) in each page to make the site visually pleasing.
+
+Every page has a footer. When the audience finish reading a page, they don't have to scroll up to the main navbar but just click on the footer to get to another page. They can also click on the icons of social media if they feel like they need more information or updates.
+
+- Home page
+
+Layout:
+![Home page - new](home-new.jpg)
+
+Interactivity:
+
+Hamburger menu and dropdown menu for narrow screens -- Home as example:
+![Hamburger menu and dropdown menu for narrow screens](hamburger-menu-new.jpg)
+
+From the first piece to the second piece shows how the hamburger menu works. The trigram icon is a common choice for hamburger menu, so we can safely assume that the audience know to click on it to see the navbar. After it is clicked, the navbar appears and occupies the whole page, blocking other information on the window. This pattern lets the audience focus on the navbar without being distracted. The cross button and the trigram button alternates. We can also assume that the audience know to click on the cross to close the navbar, because this is the traditional pattern.
+
+From the second piece to the third piece shows the dropdown menu for narrow screens. The arrow icon beside Past Events enhances the affordance of this interactivity, because it provides strong clues for how to trigger the interactivity and what to expect. The direction of the arrow button will be reversed when the dropdown content is displayed, providing timely feedback to audience's actions.
+
+Dropdown menu for wide screens -- Home as example:
+![Dropdown menu for wide screens](dropdown-menu-wide.jpg)
+
+For wide screens the dropdown menu has a white background and grey border when displayed, which blocks other information in the background. The list element changes from black to red when being hovered over, which strengthens the interactivity feedback. When the audience hover over the piece and see the color change, they know this piece is "clickable."
+
+- Past Events page
+
+Layout:
+![Past Events - new - narrow](past-events-new-narrow.jpg)
+
+For narrow screens, every paragraph or image spans the whole width of the window to maximize usability. This page follows a simple design pattern without anything special. But this pattern makes the website more formal; we don't need any surprising layout to impress the audience but just to convey information efficiently. There are h2, h3, and h4 elements throughout the page. They are distinguished by their colors and font sizes so that the audience can detect the hierarchy of content in this page.
+
+![Past Events - new - wide](past-events-new-wide.jpg)
+
+For wide screens, paragraphs and images are put in rows when necessary. White spacing on the right and left margin makes the site less crowded and cleaner.
+
+Interactivity:
+
+Slideshow of speakers:
+![Past Events - slideshow](slideshow-new.jpg)
+
+The arrow buttons hint the audience about the interactive feature and enable them to actively, not passively, control the slides. They are made big so that the audience notice them easily. In addition, visitors can click on the list elements above the slideshow to control the displayed slide. When a list element is hovered over, its color changes from black to red, indicating that it is clickable.
+
+- Our Story
+
+![Our Story - new](our-story-new.jpg)
+
+- FAQ
+
+Layout:
+![FAQ - new](faq-new.jpg)
+
+Interactivity:
+![FAQ - accordion](faq-accordion.jpg)
+
+
 
 ### Design Rationale (Milestone 2)
 

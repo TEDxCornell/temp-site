@@ -305,9 +305,14 @@ h4 {
 .home-container img{
   width: 100%;
   min-width: 50px;
-  max-width: 70px;
+  max-width: 60px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.home-container h2{
+  margin-top: 15px;
+  font-size: 20px;
 }
 
 #break_red_home{
@@ -515,7 +520,7 @@ h4 {
   color: #d1312c;
 }
 
-/** Our Story Page**/
+/** Our Story -- narrow screens **/
 
 .member-container h3 {
   font-size: 20px;
@@ -614,13 +619,11 @@ h4 {
   margin: auto !important
 }
 
-/* faq */
+/* faq -- narrow screens */
 
 .heading {
-  font-size: 300%;
-  color:black;
   margin-top: 1em;
-
+  font-size: 22px;
 }
 
 .headingborder {
@@ -628,12 +631,12 @@ h4 {
   width:91.5%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 15px;
 
-  border-top: 5px solid;
+  border-top: 2px solid #A7140F;
 }
 
 .pairs {
-  padding: 0.3em;
   margin-left: 3.5%;
   margin-right: 3.5%;
   border:solid;
@@ -644,8 +647,9 @@ h4 {
 }
 
 .question {
-  font-size: 150%;
-  padding: 1rem;
+  font-size: 18px;
+  padding: 0.8rem;
+  padding-left: 1rem;
 }
 
 
@@ -660,13 +664,21 @@ h4 {
 }
 
 .alltextfaq p {
-  font-size: larger;
+  margin-left: 1rem;
+  margin-top: 0px;
 }
 
 
-/* faq */
+@media (max-width: 400px){
+  #faq_heading{
+    font-size: 20px;
+  }
+}
 
 @media (min-width: 700px) {
+
+  /** general rules for wide screens **/
+
   .bg_div h1 {
     font-size: 4vw;
   }
@@ -754,7 +766,7 @@ h4 {
     display: none !important;
   }
 
-  /** for Home **/
+  /** for Home -- wide screens **/
 
   #break_home{
     margin-left: 10%;
@@ -791,7 +803,7 @@ h4 {
     margin-right: 10%;
   }
 
-  /** For past events page **/
+  /** For past events -- wide screens **/
 
   #past-events-body {
     width: 80%;
@@ -954,7 +966,7 @@ h4 {
     width: 50%;
   }
 
-  /** Our Story **/
+  /** Our Story -- wide screens **/
 
   .our-story {
     width: 80%;
@@ -981,6 +993,38 @@ h4 {
     display: flex;
     flex-direction: row;
   }
+
+  /** FAQ -- wide screens **/
+
+  .FAQsection{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .break_faq::after{
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  #faq_opening{
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .pairs, .heading{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .headingborder{
+    width: 100%;
+  }
+
+  #faq_opening{
+    margin-top: 20px;
+  }
+
 
   /** general rules **/
   .footer {
