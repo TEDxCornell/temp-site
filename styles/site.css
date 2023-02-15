@@ -70,7 +70,7 @@ html {
   margin-left: 20px;
 }
 
-#cross{
+#cross {
   margin-bottom: 10px;
 }
 
@@ -142,7 +142,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-#logo{
+#logo {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -239,8 +239,8 @@ h4 {
   flex-direction: row;
 }
 
-#home-description strong{
-  color:#d1312c;
+#home-description strong {
+  color: #d1312c;
   font-size: 120%;
 }
 
@@ -248,17 +248,17 @@ h4 {
   width: 500px;
 }
 
-.home-container1{
+.home-container1 {
   display: flex;
   flex-direction: column;
 }
 
-.home-container1 figure{
+.home-container1 figure {
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-.home-container1 figure img{
+.home-container1 figure img {
   width: 100%;
   max-width: 600px;
   min-width: 200px;
@@ -266,7 +266,7 @@ h4 {
   margin-right: auto !important;
 }
 
-.home-container{
+.home-container {
   display: flex;
   flex-direction: column !important;
   padding: 0px !important;
@@ -274,18 +274,18 @@ h4 {
   margin-right: 5%;
 }
 
-.home-container p{
+.home-container p {
   line-height: 150%;
 }
 
-.home-container h2{
+.home-container h2 {
   margin-top: 10px;
 }
 
 #apply-member,
 #apply-speaker,
 #email-contact,
-#social-media{
+#social-media {
   display: flex;
   flex-direction: column;
   border: solid 1.5px #A7140F;
@@ -297,12 +297,12 @@ h4 {
 
 #apply-speaker a,
 #social-media a,
-#email-contact strong{
+#email-contact strong {
   color: #d1312c;
   font-weight: 500;
 }
 
-.home-container img{
+.home-container img {
   width: 100%;
   min-width: 50px;
   max-width: 60px;
@@ -310,12 +310,12 @@ h4 {
   margin-right: auto;
 }
 
-.home-container h2{
+.home-container h2 {
   margin-top: 15px;
   font-size: 20px;
 }
 
-#break_red_home{
+#break_red_home {
   margin-top: 20px;
 }
 
@@ -575,6 +575,7 @@ h4 {
   min-width: 200px;
 }
 
+
 .card {
   margin-bottom: 20px !important;
 }
@@ -627,8 +628,8 @@ h4 {
 }
 
 .headingborder {
-  color:#000000;
-  width:91.5%;
+  color: #000000;
+  width: 91.5%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
@@ -639,7 +640,7 @@ h4 {
 .pairs {
   margin-left: 3.5%;
   margin-right: 3.5%;
-  border:solid;
+  border: solid;
   border-color: #000000;
   border-radius: .5em;
   margin-bottom: .4rem;
@@ -659,8 +660,7 @@ h4 {
 }
 
 .alltextfaq {
-  margin-bottom:2rem
-
+  margin-bottom: 2rem
 }
 
 .alltextfaq p {
@@ -669,8 +669,8 @@ h4 {
 }
 
 
-@media (max-width: 400px){
-  #faq_heading{
+@media (max-width: 400px) {
+  #faq_heading {
     font-size: 20px;
   }
 }
@@ -768,12 +768,12 @@ h4 {
 
   /** for Home -- wide screens **/
 
-  #break_home{
+  #break_home {
     margin-left: 10%;
     margin-right: 10%;
   }
 
-  .home-container1{
+  .home-container1 {
     width: 80%;
     flex-direction: row !important;
     margin-top: 20px;
@@ -781,24 +781,25 @@ h4 {
     margin-right: auto;
   }
 
-  .home-container1 p{
+  .home-container1 p {
     margin-left: 0px;
     margin-right: 10px;
   }
 
-  .home-container1 p, .home-container1 figure{
+  .home-container1 p,
+  .home-container1 figure {
     width: 50%;
   }
 
   #apply-member,
   #apply-speaker,
   #email-contact,
-  #social-media{
+  #social-media {
     flex-direction: row;
     padding-left: 40px;
   }
 
-  .home-container{
+  .home-container {
     margin-left: 10%;
     margin-right: 10%;
   }
@@ -983,45 +984,46 @@ h4 {
     margin-right: 10%;
   }
 
-  #info-wrapper{
+  #info-wrapper {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .home-container1{
+  .home-container1 {
     display: flex;
     flex-direction: row;
   }
 
   /** FAQ -- wide screens **/
 
-  .FAQsection{
+  .FAQsection {
     width: 70%;
     margin-left: 15%;
     margin-right: 15%;
   }
 
-  .break_faq::after{
+  .break_faq::after {
     margin-left: 15%;
     margin-right: 15%;
   }
 
-  #faq_opening{
+  #faq_opening {
     margin-left: 15%;
     margin-right: 15%;
   }
 
-  .pairs, .heading{
+  .pairs,
+  .heading {
     margin-left: 0px;
     margin-right: 0px;
   }
 
-  .headingborder{
+  .headingborder {
     width: 100%;
   }
 
-  #faq_opening{
+  #faq_opening {
     margin-top: 20px;
   }
 
@@ -1101,32 +1103,32 @@ h4 {
 
   /** For Home**/
 
-  .home-container1{
+  .home-container1 {
     width: 70%;
   }
 
-  .home-container{
+  .home-container {
     display: flex;
     flex-direction: row !important;
   }
 
   #apply-speaker,
-  #email-contact{
+  #email-contact {
     margin-right: 20px;
   }
 
   #apply-member,
   #apply-speaker,
   #email-contact,
-  #social-media{
+  #social-media {
     width: 50% !important;
   }
 
-  .home-container img{
+  .home-container img {
     margin-right: 20px;
   }
 
-  #home-description{
+  #home-description {
     margin-right: 20px;
   }
 
@@ -1152,7 +1154,7 @@ h4 {
     margin-right: 40px;
   }
 
-  .overview .text{
+  .overview .text {
     width: 70%;
   }
 
